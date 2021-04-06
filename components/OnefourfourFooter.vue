@@ -2,7 +2,7 @@
   <footer class="fill-gray-lighter xs-text-6 md-text-5">
     <div class="r no-gap">
       <div v-if="pagination.active" class="c-12 xs-text-left xs-p2">
-        <lazy-bael-pagination :pagination="pagination" />
+        <lazy-pagination :pagination="pagination" />
       </div>
       <div
         class="xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none"
@@ -10,7 +10,7 @@
       >
         <div class="item">
           <div v-if="siteDescription" class="footer__heading xs-mb2">About</div>
-          <p v-if="siteDescription">{{siteDescription}}</p>
+          <p v-if="siteDescription">{{ siteDescription }}</p>
         </div>
       </div>
       <div
@@ -26,8 +26,8 @@
         <div class="item">
           <div v-if="connectData" class="footer__heading xs-mb2">Connect</div>
           <ul v-if="connectData" class="list-unstyled">
-            <li v-for="(c,i) in connectData" :key="i">
-              <a :href="c.url">{{c.name}}</a>
+            <li v-for="(c, i) in connectData" :key="i">
+              <a :href="c.url">{{ c.name }}</a>
             </li>
           </ul>
         </div>
@@ -43,18 +43,18 @@
             href="https://app.netlify.com/start/deploy?repository=https://github.com/jake-101/bael-template"
           >
             <img
-              style="height:29px;width:auto;"
+              style="height: 29px; width: auto"
               src="~/assets/deploy.svg"
               title="Deploy to Netlify"
             />
           </a>
         </div>
       </div>
-      <div class="c-12 xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none">
+      <div
+        class="c-12 xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none"
+      >
         <div class="item xs-text-6">
-          <a href="https://github.com/jake-101/bael-template">Bael</a>
-          <span class="small-txt" v-if="version">{{version}}</span>, An open source design by
-          <a href="https://jake101.com">jake101</a>
+          <a href="https://144.hr">144</a> creative agency
         </div>
       </div>
     </div>
@@ -70,9 +70,6 @@ export default {
   computed: {
     pagination() {
       return this.$store.state.pagination;
-    },
-    version() {
-      return process.env.BAEL_VERSION || false;
     },
     signupAboutSize: function () {
       return {

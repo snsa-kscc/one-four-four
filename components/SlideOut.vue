@@ -1,48 +1,64 @@
 <template>
   <div
-    class="bael-slideout xs-border xs-text-6 md-text-5"
-    :class="{ isOpen: $store.state.menuIsActive  }"
+    class="onefourfour-slideout xs-border xs-text-6 md-text-5"
+    :class="{ isOpen: $store.state.menuIsActive }"
   >
-    <div class="bael-slideout-opener">
+    <div class="onefourfour-slideout-opener">
       <div
         @click="toggle"
         class="hamburger hamburger--spin js-hamburger"
-        :class="{'is-active': $store.state.menuIsActive }"
+        :class="{ 'is-active': $store.state.menuIsActive }"
       >
         <div class="hamburger-box">
           <div class="hamburger-inner"></div>
         </div>
       </div>
     </div>
-    <ul class="bael-slideout-menu list-unstyled">
-      <li class="bael-slideout-menu-item menu-logo">
+    <ul class="onefourfour-slideout-menu list-unstyled">
+      <li class="onefourfour-slideout-menu-item menu-logo">
         <nuxt-link
-          v-if="info.siteicon  && info.showmenu"
-          style="color:#000"
+          v-if="info.siteicon && info.showmenu"
+          style="color: #000"
           class="text-black black-font site--name"
           to="/"
           exact
         >
           <img
-            style="width:64px;"
+            style="width: 64px"
             class="xs-block xs-fit xs-mb2"
             :src="info.siteicon"
             :alt="info.sitename"
           />
         </nuxt-link>
       </li>
-      <li class="bael-slideout-menu-item--small">
+      <li class="onefourfour-slideout-menu-item--small">
         <nuxt-link to="/" exact>Home</nuxt-link>
       </li>
-      <li v-if="categories.length" class="bael-slideout-menu-item--small">
+      <li
+        v-if="categories.length"
+        class="onefourfour-slideout-menu-item--small"
+      >
         <nuxt-link to="/categories" exact>Categories</nuxt-link>
       </li>
-      <li v-for="(p,i) in pages" :key="`pg-${i}`" class="bael-slideout-menu-item--small">
-        <nuxt-link :to="p.path">{{p.title}}</nuxt-link>
+      <li
+        v-for="(p, i) in pages"
+        :key="`pg-${i}`"
+        class="onefourfour-slideout-menu-item--small"
+      >
+        <nuxt-link :to="p.path">{{ p.title }}</nuxt-link>
       </li>
-      <li v-if="info.menu" class="xs-mt5 bael-slideout-menu-item heading-font">Links</li>
-      <li v-for="m in info.menu" :key="m.position" class="bael-slideout-menu-item--small">
-        <a :href="m.link">{{m.name}}</a>
+      <li
+        v-if="info.menu"
+        class="xs-mt5 onefourfour-slideout-menu-item heading-font"
+      >
+        Links
+      </li>
+      <li
+        v-for="m in info.menu"
+        :key="m.position"
+        class="onefourfour-slideout-menu-item--small"
+      >
+        <a :href="m.link">{{ m.name }}</a>
       </li>
     </ul>
   </div>
@@ -187,7 +203,7 @@ export default {
   transition: bottom 0.1s ease-out,
     transform 0.22s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1);
 }
-.bael-slideout {
+.onefourfour-slideout {
   position: fixed;
   right: 0;
   top: 0;
@@ -205,7 +221,7 @@ export default {
   }
 }
 
-.bael-slideout-opener {
+.onefourfour-slideout-opener {
   position: absolute;
   top: -4px;
   right: 100%;
@@ -222,7 +238,7 @@ export default {
   }
 }
 
-.bael-slideout-menu {
+.onefourfour-slideout-menu {
   font-weight: 600;
   transition: transform 1.6s ease(out-cubic);
   .menu-logo {
@@ -230,17 +246,17 @@ export default {
   }
 }
 
-.bael-slideout-menu-item,
-.bael-slideout-menu-item--small {
+.onefourfour-slideout-menu-item,
+.onefourfour-slideout-menu-item--small {
   text-transform: uppercase;
 }
 
-.bael-slideout-menu-item--small {
+.onefourfour-slideout-menu-item--small {
   font-weight: 800;
   text-transform: uppercase;
 }
 
-.bael-slideout-menu-item--small a {
+.onefourfour-slideout-menu-item--small a {
   cursor: pointer;
   border-top: 1px solid #666;
   display: block;
@@ -253,7 +269,7 @@ export default {
     background: var(--active-bg);
   }
 }
-.bael-slideout-menu-item--small a:hover {
+.onefourfour-slideout-menu-item--small a:hover {
   text-decoration: none;
 }
 </style>

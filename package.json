@@ -1,8 +1,8 @@
 {
-  "name": "bael-cms-template",
-  "version": "1.0 dev",
-  "description": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js",
-  "author": "jake101 <hello@jake101.com>",
+  "name": "144",
+  "version": "1.0",
+  "description": "144 agency portfolio site",
+  "author": "dvasadva <office@dvasadva.com>",
   "scripts": {
     "dev": "nuxt",
     "serve": "nuxt",
@@ -29,13 +29,10 @@
   },
   "devDependencies": {
     "@sendgrid/client": "^6.3.0",
-    "string.prototype.includes": "^2.0.0",
-    "sass-loader": "^7.0.0",
-    "babel-eslint": "^8.2.6",
     "eslint": "^4.15.0",
     "eslint-friendly-formatter": "^3.0.0",
-    "eslint-loader": "^1.7.1",
     "eslint-plugin-vue": "^4.7.0",
-    "prettier": "^2.1.1"
+    "sass-loader": "^7.0.0",
+    "string.prototype.includes": "^2.0.0"
   }
 }

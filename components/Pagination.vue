@@ -1,8 +1,13 @@
 <template>
   <div class="item xs-text-center">
-    <div v-if="pagination" class="xs-flex xs-flex-justify-center xs-flex-align-center">
+    <div
+      v-if="pagination"
+      class="xs-flex xs-flex-justify-center xs-flex-align-center"
+    >
       <span class="xs-absolute xs-l1 xs-text-6 text-gray-lighter xs-mr2">
-        <span class="bold">Page {{pagination.page || 1}} / {{pagination.totalPages}}</span>
+        <span class="bold"
+          >Page {{ pagination.page || 1 }} / {{ pagination.totalPages }}</span
+        >
       </span>
 
       <div class="pagination">
@@ -13,7 +18,7 @@
                 class="pagination__button pagination__button--prev"
         >-->
         <nuxt-link
-        exact
+          exact
           :to="backButton"
           tag="button"
           class="pagination__button pagination__button--prev"
@@ -32,7 +37,10 @@
         <nuxt-link
           :to="fwdButton"
           tag="button"
-          :class="{ 'pagination__button--disabled': this.pagination.page >= this.pagination.totalPages }"
+          :class="{
+            'pagination__button--disabled':
+              this.pagination.page >= this.pagination.totalPages,
+          }"
           class="pagination__button pagination__button--next"
         >
           <svg
@@ -59,7 +67,9 @@ export default {
   },
   computed: {
     backButton() {
-      return this.pagination.page - 1 == 1 ||this.pagination.page - 1 == 0  ? '/' : `/p/${parseInt(this.pagination.page) - 1}`;
+      return this.pagination.page - 1 == 1 || this.pagination.page - 1 == 0
+        ? "/"
+        : `/p/${parseInt(this.pagination.page) - 1}`;
     },
     fwdButton() {
       return `/p/${parseInt(this.pagination.page) + 1}`;
@@ -67,5 +77,3 @@ export default {
   },
 };
 </script>
-
-       

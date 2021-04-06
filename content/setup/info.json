@@ -1,9 +1,9 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
+  "sitename": "144",
+  "sitedescription": "144 agency portfolio site",
   "siteicon": "/images/uploads/icon.png",
   "showmenu": true,
-  "emailsignup": true,
+  "emailsignup": false,
   "altlayout": false,
   "menu": [
     {

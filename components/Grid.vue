@@ -1,5 +1,5 @@
 <template>
-  <div :class="['xs-text-6 md-text-5 bael-grid', {paginated: hasPagination}]">
+  <div :class="['xs-text-6 md-text-5 onefourfour-grid', {paginated: hasPagination}]">
     <div v-if="posts.length" class="r full-height browse">
       <div
         v-intersect
@@ -43,11 +43,11 @@ export default {
 </script>
 
 <style>
-.bael-grid .bcg-item {
+.onefourfour-grid .bcg-item {
   opacity: 0;
   transition: 0.2s opacity ease-out;
 }
-.bael-grid .intersected.bcg-item {
+.onefourfour-grid .intersected.bcg-item {
   opacity: 1;
   transition: 0.2s opacity ease-out;
 }

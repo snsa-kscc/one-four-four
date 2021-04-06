@@ -1,9 +1,9 @@
 <template>
   <section class="container xs-text-5 md-text-4">
-    <bael-header />
+    <onefourfour-header />
     <nuxt />
     <lazy-slide-out />
-    <bael-footer />
+    <onefourfour-footer />
   </section>
 </template>
 <script>

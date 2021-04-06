@@ -1,10 +1,8 @@
 <template>
-  <component :is="getLayout" :posts="posts[0]" />
+  <grid :posts="posts[0]" />
 </template>
 
 <script>
-import BaelGrid from "~/components/BaelGrid";
-import FullGrid from "~/components/FullGrid";
 import _chunk from "lodash/chunk";
 export default {
   async asyncData({ $content, params, error, store }) {
@@ -43,13 +41,8 @@ export default {
     if (!from) return "fade";
     return +to.query.page > +from.query.page ? "slide-right" : "slide-left";
   },
+
   name: "Index",
-  components: { BaelGrid, FullGrid },
-  computed: {
-    getLayout() {
-      return this.$store.state.info.altlayout ? "FullGrid" : "BaelGrid";
-    },
-  },
 };
 </script>
 
