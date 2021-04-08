@@ -7,14 +7,14 @@ import _chunk from "lodash/chunk";
 
 export default {
   async asyncData({ $content, params, error, store }) {
-    const blogPosts = await $content("blog")
+    const blogPosts = await $content("portfolio")
       .sortBy("createdAt", "desc")
       .only(["title", "path"])
       .fetch()
       .catch((err) => {
         error({ statusCode: 404, message: "Page not found" });
       });
-    const chunk = _chunk(blogPosts, 12);
+    const chunk = _chunk(blogPosts, 9);
     store.commit("SET_PAGINATION", {
       active: true,
       page: params.page,

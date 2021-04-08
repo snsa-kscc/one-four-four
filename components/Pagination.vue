@@ -69,10 +69,10 @@ export default {
     backButton() {
       return this.pagination.page - 1 == 1 || this.pagination.page - 1 == 0
         ? "/"
-        : `/p/${parseInt(this.pagination.page) - 1}`;
+        : `/page/${parseInt(this.pagination.page) - 1}`;
     },
     fwdButton() {
-      return `/p/${parseInt(this.pagination.page) + 1}`;
+      return `/page/${parseInt(this.pagination.page) + 1}`;
     },
   },
 };

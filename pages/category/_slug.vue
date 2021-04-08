@@ -11,7 +11,7 @@ export default {
         error({ statusCode: 404, message: "Page not found" });
       });
 
-    const posts = await $content("blog")
+    const posts = await $content("portfolio")
       .sortBy("createdAt", "desc")
       .where({ category: category.title })
       .fetch();

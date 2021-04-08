@@ -68,7 +68,7 @@
 export default {
   fetchOnServer: true,
   async fetch() {
-    const pages = await this.$content("page").fetch();
+    const pages = await this.$content("/").fetch();
     this.pages = pages;
   },
   data() {

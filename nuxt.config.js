@@ -117,4 +117,8 @@ module.exports = {
     //     config.resolve.alias['vue'] = 'vue/dist/vue.common'
     // }
   },
+  server: {
+    host: "0", // default: localhost
+    port: 5500, // default: 3000
+  },
 };

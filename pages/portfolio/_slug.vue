@@ -12,7 +12,7 @@
             :thumbnail="post.thumbnail"
           />
 
-          <h1 class="xs-py3 main-title">{{post.title}}</h1>
+          <h1 class="xs-py3 main-title">{{ post.title }}</h1>
           <div class="xs-mt-5 bold">
             <ul class="list-unstyled xs-flex xs-flex-align-center">
               <li class="xs-inline-block xs-mr1" v-if="post.category">
@@ -20,7 +20,8 @@
                   <nuxt-link
                     :to="`/category/${post.category.toLowerCase()}`"
                     class="tag__link text-white"
-                  >{{post.category}}</nuxt-link>
+                    >{{ post.category }}</nuxt-link
+                  >
                 </div>
               </li>
               <li class="xs-inline-block">{{ post.date }}</li>
@@ -40,7 +41,7 @@
 <script>
 export default {
   async asyncData({ $content, params, error }) {
-    const post = await $content("blog", params.slug)
+    const post = await $content("portfolio", params.slug)
       .fetch()
       .catch((err) => {
         error({ statusCode: 404, message: "Page not found" });
