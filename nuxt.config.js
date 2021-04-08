@@ -5,11 +5,10 @@ const webpack = require("webpack");
 module.exports = {
   target: "static",
   components: true,
-  mode: "universal",
   /*
    ** Headers of the page
    */
-  transition: { mode: "in-out" },
+  pageTransition: { mode: "in-out" },
   env: {
     API_URL: process.env.API_URL,
     ONEFOURFOUR_VERSION: pkginfo.version,
