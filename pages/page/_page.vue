@@ -9,7 +9,7 @@ export default {
   async asyncData({ $content, params, error, store }) {
     const blogPosts = await $content("portfolio")
       .sortBy("createdAt", "desc")
-      .only(["title", "path"])
+      .only(["title", "path", "thumbnail"])
       .fetch()
       .catch((err) => {
         error({ statusCode: 404, message: "Page not found" });
@@ -30,7 +30,7 @@ export default {
 
   transition(to, from) {
     if (!from) return "fade";
-    return +to.query.page > +from.query.page ? "slide-right" : "slide-left";
+    return +to.query.page > +from.query.page ? "slide-left" : "slide-right"; //swapped left and right
   },
   name: "Index",
   data() {

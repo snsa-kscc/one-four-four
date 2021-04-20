@@ -8,7 +8,7 @@ export default {
   async asyncData({ $content, params, error, store }) {
     const blogPosts = await $content("portfolio")
       .sortBy("createdAt", "desc")
-      .only(["title", "path"])
+      .only(["title", "path", "thumbnail"])
       .fetch()
       .catch((err) => {
         error({ statusCode: 404, message: "Page not found" });
