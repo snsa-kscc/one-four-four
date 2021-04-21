@@ -28,6 +28,13 @@ collections:
           required: false,
         }
       - {
+          label: "Gallery",
+          name: "galleryImages",
+          widget: "list",
+          summary: "{{fields.image}}",
+          field: { label: Image, name: image, widget: image },
+        }
+      - {
           label: "Category",
           name: "category",
           widget: "relation",
