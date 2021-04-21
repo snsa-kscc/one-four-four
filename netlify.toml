@@ -1,4 +1,4 @@
 [build]
   publish = "dist"
-  command = "nuxt generate --no-lock"
+  command = "npm run generate"
   functions = "./functions"
