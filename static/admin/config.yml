@@ -33,7 +33,7 @@ collections:
           widget: "list",
           summary: "{{fields.image}}",
           fields: 
-            - { label: Image, name: image, widget: image }
+            - { label: Image, name: image, widget: image },
             - { label: Alt, name: alt, widget: string },
         }
       - {
