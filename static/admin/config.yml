@@ -32,9 +32,7 @@ collections:
           name: "galleryImages",
           widget: "list",
           summary: "{{fields.image}}",
-          fields: 
-            - { label: Image, name: image, widget: image },
-            - { label: Alt, name: alt, widget: string },
+          field: { label: Image, name: image, widget: image },
         }
       - {
           label: "Category",
