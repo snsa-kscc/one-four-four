@@ -16,7 +16,6 @@
             :title="post.title"
             :galleryImages="post.galleryImages"
           />
-
           <h1 class="xs-py3 main-title">{{ post.title }}</h1>
           <div class="xs-mt-5 bold">
             <ul class="list-unstyled xs-flex xs-flex-align-center">
