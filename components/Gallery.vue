@@ -11,7 +11,7 @@
           class="featured-image"
           loading="lazy"
           :src="galleryImage"
-          :alt="`${title} 0${i + 1}`"
+          :alt="`${title} 01${i + 1}`"
         />
       </transition>
     </div>
