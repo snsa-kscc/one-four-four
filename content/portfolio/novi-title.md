@@ -8,4 +8,4 @@ galleryImages:
   - /images/uploads/belief.jpg
   - /images/uploads/define.png
 ---
-ovo je novi title još malo teksta
+ovo je novi title još malo teksta i još malo još teksta
