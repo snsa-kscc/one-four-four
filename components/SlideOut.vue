@@ -111,7 +111,7 @@ export default {
   },
 };
 </script>
-  <style lang="scss">
+<style>
 .heading-font {
   text-transform: uppercase;
   font-weight: 800;
@@ -138,14 +138,12 @@ export default {
 .hamburger:hover {
   opacity: 0.7;
 }
-
 .hamburger-box {
   width: 40px;
   height: 24px;
   display: inline-block;
   position: relative;
 }
-
 .hamburger-inner {
   display: block;
   top: 50%;
@@ -174,7 +172,6 @@ export default {
 .hamburger-inner::after {
   bottom: -10px;
 }
-
 .hamburger--spin .hamburger-inner {
   transition-duration: 0.22s;
   transition-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
@@ -186,7 +183,6 @@ export default {
   transition: bottom 0.1s 0.25s ease-in,
     transform 0.22s cubic-bezier(0.55, 0.055, 0.675, 0.19);
 }
-
 .hamburger--spin.is-active .hamburger-inner {
   transform: rotate(225deg);
   transition-delay: 0.12s;
@@ -214,13 +210,11 @@ export default {
   background-color: #fff;
   transform: translate3D(100%, 0, 0);
   transition: transform 0.6s;
-
-  &.isOpen {
-    transform: translate3D(0, 0, 0);
-    transition: transform 0.6s;
-  }
 }
-
+.onefourfour-slideout.isOpen {
+  transform: translate3D(0, 0, 0);
+  transition: transform 0.6s;
+}
 .onefourfour-slideout-opener {
   position: absolute;
   top: -4px;
@@ -232,42 +226,37 @@ export default {
   letter-spacing: 0.08em;
   color: #000;
   cursor: pointer;
-
-  &:hover {
-    text-decoration: underline;
-  }
 }
-
+.onefourfour-slideout-opener:hover {
+  text-decoration: underline;
+}
 .onefourfour-slideout-menu {
   font-weight: 600;
   transition: transform 1.6s ease(out-cubic);
-  .menu-logo {
-    padding: 0.5rem 0.3rem;
-  }
 }
-
+.onefourfour-slideout-menu .menu-logo {
+  padding: 0.5rem 0.3rem;
+}
 .onefourfour-slideout-menu-item,
 .onefourfour-slideout-menu-item--small {
   text-transform: uppercase;
 }
-
 .onefourfour-slideout-menu-item--small {
   font-weight: 800;
   text-transform: uppercase;
 }
-
 .onefourfour-slideout-menu-item--small a {
   cursor: pointer;
   border-top: 1px solid #666;
   display: block;
   padding: 0.5rem 0.3rem;
-  &:hover {
-    background: var(--hover-bg);
-  }
-  &:focus,
-  :active {
-    background: var(--active-bg);
-  }
+}
+.onefourfour-slideout-menu-item--small a:hover {
+  background: var(--hover-bg);
+}
+.onefourfour-slideout-menu-item--small a:focus,
+.onefourfour-slideout-menu-item--small a :active {
+  background: var(--active-bg);
 }
 .onefourfour-slideout-menu-item--small a:hover {
   text-decoration: none;

@@ -35,7 +35,7 @@ module.exports = {
   },
   css: [
     "@/assets/grid.css",
-    "@/assets/content.scss",
+    "@/assets/content.css",
     "bf-solid/dist/solid.latest.css",
   ],
   // icon: {
@@ -97,7 +97,7 @@ module.exports = {
   /*
    ** Build configuration
    */
-
+  buildModules: ["@nuxtjs/tailwindcss"],
   build: {
     extractCSS: false,
     html: {

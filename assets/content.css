@@ -1,0 +1,133 @@
+.post-content .nuxt-content {
+  line-height: 1.85;
+}
+@media print {
+  .post-content .nuxt-content *,
+  .post-content .nuxt-content *:before,
+  .post-content .nuxt-content *:after {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+  .post-content .nuxt-content a,
+  .post-content .nuxt-content a:visited {
+    text-decoration: underline;
+  }
+  .post-content .nuxt-content a[href]:after {
+    content: " (" attr(href) ")";
+  }
+  .post-content .nuxt-content abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+  .post-content .nuxt-content a[href^="#"]:after,
+  .post-content .nuxt-content a[href^="javascript:"]:after {
+    content: "";
+  }
+  .post-content .nuxt-content pre,
+  .post-content .nuxt-content blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+  .post-content .nuxt-content thead {
+    display: table-header-group;
+  }
+  .post-content .nuxt-content tr,
+  .post-content .nuxt-content img {
+    page-break-inside: avoid;
+  }
+  .post-content .nuxt-content img {
+    max-width: 100% !important;
+  }
+  .post-content .nuxt-content p,
+  .post-content .nuxt-content h2,
+  .post-content .nuxt-content h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  .post-content .nuxt-content h2,
+  .post-content .nuxt-content h3 {
+    page-break-after: avoid;
+  }
+}
+.post-content .nuxt-content p,
+.post-content .nuxt-content ul,
+.post-content .nuxt-content ol {
+  font-size: 1rem;
+  margin-bottom: 1.3rem;
+}
+.post-content .nuxt-content h1,
+.post-content .nuxt-content h2,
+.post-content .nuxt-content h3,
+.post-content .nuxt-content h4 {
+  margin: 1.618rem 0 1rem;
+  font-weight: inherit;
+  color: var(--textcolor);
+  line-height: 1.1;
+  letter-spacing: -0.15rem;
+}
+.post-content .nuxt-content h1 {
+  margin-top: 0;
+  font-size: 2.827rem;
+}
+.post-content .nuxt-content h2 {
+  font-size: 2.827rem;
+}
+.post-content .nuxt-content h3 {
+  font-size: 1.999rem;
+}
+.post-content .nuxt-content h4,
+.post-content .nuxt-content .splendor-h4 {
+  font-size: 1.414rem;
+}
+.post-content .nuxt-content h5 {
+  font-size: 1.121rem;
+}
+.post-content .nuxt-content h6,
+.post-content .nuxt-content .splendor-h6 {
+  font-size: 0.88rem;
+}
+.post-content .nuxt-content small {
+  font-size: 0.707em;
+  /* https://github.com/mrmrs/fluidity */
+}
+.post-content .nuxt-content img,
+.post-content .nuxt-content canvas,
+.post-content .nuxt-content iframe,
+.post-content .nuxt-content video,
+.post-content .nuxt-content svg,
+.post-content .nuxt-content select,
+.post-content .nuxt-content textarea {
+  max-width: 100%;
+}
+.post-content .nuxt-content div {
+  width: 100%;
+}
+.post-content .nuxt-content div img {
+  width: 100%;
+}
+.post-content .nuxt-content blockquote {
+  padding: 0.5rem 1.5rem;
+}
+.post-content .nuxt-content blockquote p {
+  font-size: 1.5rem;
+  font-style: italic;
+  margin: 1rem auto 1rem;
+}
+.post-content .nuxt-content li {
+  margin-left: 0;
+}
+.post-content .nuxt-content p {
+  height: auto;
+  line-height: 1.618;
+}
+.post-content .nuxt-content pre,
+.post-content .nuxt-content code {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+}
+.post-content .nuxt-content pre {
+  background-color: #fafafa;
+  font-size: 0.8rem;
+  overflow-x: auto;
+  padding: 1.125em;
+}
