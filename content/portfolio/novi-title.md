@@ -1,5 +1,5 @@
 ---
-title: novi title
+title: ZAGREB INTERNATIONAL
 date: Wednesday April 21st, 2021
 thumbnail: ""
 galleryImages:
