@@ -3,8 +3,6 @@ title: ZAGREB TRAIL RUNNERS
 date: Wednesday May 5th, 2021
 thumbnail: /images/uploads/zagreb_trail_runners_ferivi_feature.webp
 galleryImages:
-  - /images/uploads/zagreb_trail_runners_ferivi_1.jpg
-  - /images/uploads/zagreb_trail_runners_ferivi_2.jpg
   - /images/uploads/zagreb_trail_runners_ferivi_4.webp
   - /images/uploads/zagreb_trail_runners_ferivi_5.webp
   - /images/uploads/zagreb_trail_runners_ferivi_3.webp
