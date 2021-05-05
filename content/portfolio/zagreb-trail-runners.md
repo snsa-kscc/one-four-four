@@ -16,13 +16,15 @@ galleryImages:
 
 **About the client:** Running specialty store located in Zagreb, Croatia.
 
- 
-
 **Project:**
 
 **About the project:**
 
-Trial event as a promo and to boost sales of the Nike Zoom Fly Flyknit running shoe.  
+A customer focused event , a presentation and a trial of the Nike Air Zoom Pegasus Trail shoe. 
+
+Running Gate + Zagreb Runners as influencers
+
+  
 
 Event concept
 
