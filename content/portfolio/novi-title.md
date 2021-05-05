@@ -5,7 +5,7 @@ thumbnail: /images/uploads/zagreb_international_bike_polo_feature.webp
 galleryImages:
   - /images/uploads/zagreb_international_bike_polo_01.webp
   - /images/uploads/zagreb_international_bike_polo_02.webp
-category: Pro bono
+category: Events
 ---
 **Client: Bike Polo Zagreb**
 
