@@ -1,6 +1,6 @@
 ---
 title: ZAGREB INTERNATIONAL
-date: Thursday May 6th, 2021
+date: Tuesday May 4th, 2021
 thumbnail: /images/uploads/zagreb_international_bike_polo_feature.webp
 galleryImages:
   - /images/uploads/zagreb_international_bike_polo_01.webp
