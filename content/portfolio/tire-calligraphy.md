@@ -29,9 +29,11 @@ Co-founder
 
 Brand development
 
+Business development
+
 Creative direction
 
-Business development
+Storytelling
 
 Influencer marketing
 
