@@ -1,6 +1,6 @@
 ---
 title: APPROVED SHOP X TIRE CALLIGRAPHY PHOTOSHOOT
-date: 2021-05-08T22:10:01.970Z
+date: 2021-05-03T22:10:01.970Z
 thumbnail: /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_feature.webp
 galleryImages:
   - /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_01.webp
