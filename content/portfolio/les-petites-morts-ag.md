@@ -1,9 +1,17 @@
 ---
 title: LES PETITES MORTS AG
 date: Saturday May 8th, 2021
+thumbnail: /images/uploads/lespetitesmortsag_feature.webp
+galleryImages:
+  - /images/uploads/lespetitesmortsag_01.webp
+  - /images/uploads/lespetitesmortsag_02.webp
+  - /images/uploads/lespetitesmortsag_03.webp
+  - /images/uploads/lespetitesmortsag_04.webp
 category: Modelling agency
 ---
-About: A modelling agency focused on diversity and inclusivity, because everyone is beautiful and it is all in the eye of the beholder, a “boutique alt” agency by the name of Les Petites Morts, recently revealed itself to the public eye. Located in Zagreb, Croatia; oriented globally. 
+**About** 
+
+A modelling agency focused on diversity and inclusivity, because everyone is beautiful and it is all in the eye of the beholder, a “boutique alt” agency by the name of Les Petites Morts, recently revealed itself to the public eye. Located in Zagreb, Croatia; oriented globally. 
 
 Owner
 
