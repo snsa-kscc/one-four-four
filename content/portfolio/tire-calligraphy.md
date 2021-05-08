@@ -25,6 +25,8 @@ Tire Calligraphy started as and still represents the passion for cycling, but gr
 
 TC manifesto. 199144.
 
+
+
 Co-founder 
 
 Brand development
