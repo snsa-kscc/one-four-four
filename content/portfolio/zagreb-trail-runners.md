@@ -12,17 +12,15 @@ galleryImages:
 ---
 **Client: Ferivi / Running Gate**
 
-**About the client:** Running specialty store located in Zagreb, Croatia.
+**About the client**
 
-**Project:**
+Running specialty store located in Zagreb, Croatia.
 
-**About the project:**
+**Project**
 
 A customer focused event , a presentation and a trial of the Nike Air Zoom Pegasus Trail shoe. 
 
 Running Gate + Zagreb Runners as influencers
-
-  
 
 Event concept
 
