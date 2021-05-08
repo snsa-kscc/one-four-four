@@ -9,7 +9,7 @@ category: Events
 ---
 **Client: Bike Polo Zagreb**
 
-* **About the client:** 
+* **About the client** 
 
 Bike Polo Zagreb is an NGO focused on informing and educating the public about a "new", unexplored sport activity available in the city of Zagreb and the rest of Croatia. 
 
@@ -17,7 +17,7 @@ Also a part of the mission is to promote the urban sport of bikepolo and growing
 
 **Project: International bikepolo tournament**
 
-* **About the project:** 
+* **About the project** 
 
 The only international bikepolo tournament in Croatia. Six years and counting, with players from Croatia, Slovenia, Austria, Germany, Italy, Hungary, Poland, Switzerland, Finland, Estonia, England, USA.   
 
