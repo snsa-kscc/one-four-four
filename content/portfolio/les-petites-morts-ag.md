@@ -1,0 +1,22 @@
+---
+title: LES PETITES MORTS AG
+date: Saturday May 8th, 2021
+category: Modelling agency
+---
+About: A modelling agency focused on diversity and inclusivity, because everyone is beautiful and it is all in the eye of the beholder, a “boutique alt” agency by the name of Les Petites Morts, recently revealed itself to the public eye. Located in Zagreb, Croatia; oriented globally. 
+
+Owner
+
+Project management
+
+Creative direction
+
+Marketing
+
+PR
+
+Model booking
+
+Model scouting
+
+Location scouting
