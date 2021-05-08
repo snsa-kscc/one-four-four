@@ -7,7 +7,7 @@ import _chunk from "lodash/chunk";
 export default {
   async asyncData({ $content, params, error, store }) {
     const blogPosts = await $content("portfolio")
-      //.sortBy("date", "desc")
+      .sortBy("date", "desc")
       .only(["title", "path", "thumbnail"])
       .fetch()
       .catch((err) => {
