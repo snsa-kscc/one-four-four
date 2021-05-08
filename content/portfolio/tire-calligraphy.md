@@ -3,8 +3,17 @@ title: TIRE CALLIGRAPHY
 date: Saturday May 8th, 2021
 galleryImages:
   - /images/uploads/tirecalligraphy_feature.webp
+  - /images/uploads/tirecalligraphy_webshop_01.webp
+  - /images/uploads/tirecalligraphy_webshop_02.webp
+  - /images/uploads/tirecalligraphy_webshop_03.webp
+  - /images/uploads/tirecalligraphy_webshop_04.webp
+  - /images/uploads/tirecalligraphy_webshop_05.webp
+  - /images/uploads/tirecalligraphy_webshop_06.webp
+  - /images/uploads/tirecalligraphy_webshop_07.webp
+  - /images/uploads/tirecalligraphy_webshop_08.webp
+category: Brand development
 ---
-About: Contemporary apparel brand originated in Zagreb, Croatia, oriented globally. 
+**About:** Contemporary apparel brand originated in Zagreb, Croatia, oriented globally. 
 
 The term Tire Calligraphy was coined by Matej, referring to the skid marks when ridding fixed gear. The full phrase was and still is Tire Calligraphy, Mallet & Ball, which represents the progression of our interests, ridding fixed gear and playing bike polo.
 
@@ -15,8 +24,6 @@ Calligraphy for us represents making a mark, leaving a track. All of the individ
 Tire Calligraphy started as and still represents the passion for cycling, but gradually reinvented itself into a wider interest and never-ending thirst for the next challenge, being physical as in running and climbing, being social with collaborations that match our vision of aesthetics and functionality, with every individual in mind.
 
 TC manifesto. 199144.
-
-
 
 Co-founder 
 
