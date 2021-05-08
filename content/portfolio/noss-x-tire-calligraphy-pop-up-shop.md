@@ -1,6 +1,6 @@
 ---
 title: NOSS x TIRE CALLIGRAPHY POP UP SHOP
-date: Sunday May 2nd, 2021
+date: 2021-05-06T22:00:00.000Z
 thumbnail: /images/uploads/tirecalligraphy_noss_feature.webp
 galleryImages:
   - /images/uploads/tirecalligraphy_noss_01.jpg
