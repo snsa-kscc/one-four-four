@@ -1,6 +1,6 @@
 ---
 title: ZOOM ZAGREB
-date: Wednesday May 5th, 2021
+date: 2021-05-05T22:12:58.420Z
 thumbnail: /images/uploads/zoom_zagreb_ferivi_feature.webp
 galleryImages:
   - /images/uploads/zoom_zagreb_ferivi_01.webp
