@@ -13,3 +13,13 @@ galleryImages:
   - /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_08.webp
 ---
 Client: Approved Shop
+
+Creative direction
+
+Concept
+
+Storytelling
+
+Model scouting
+
+Model styling
