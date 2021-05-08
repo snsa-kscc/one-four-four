@@ -1,6 +1,6 @@
 ---
 title: Mentioned by netko
-date: Thursday July 18th, 2019
+date: 2020-01-01T23:00:00.000Z
 thumbnail: /images/uploads/twitter-glitched-7-18-2019-6-26-49-pm.png
 category: Internet
 ---
