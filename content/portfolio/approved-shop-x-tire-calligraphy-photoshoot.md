@@ -12,7 +12,17 @@ galleryImages:
   - /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_07.webp
   - /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_08.webp
 ---
-Client: Approved Shop
+**Client:** Approved Shop
+
+**About the client** 
+
+Streetwear shop located in Zagreb and Split, Croatia.
+
+**About the project**
+
+A photo shoot for the Tire Calligraphy 2021 collection, available in Approved Shop retail locations in Zagreb and Split and online. 
+
+
 
 Creative direction
 
