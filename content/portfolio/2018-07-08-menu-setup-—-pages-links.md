@@ -1,8 +1,8 @@
 ---
-  title: Menu Setup — Pages & Links
-  date: Sunday July 8th, 2018
-  thumbnail: /images/uploads/menu-setup.jpg
-  category: Setup
+title: Menu Setup — Pages & Links
+date: 2016-08-01T22:00:00.000Z
+thumbnail: /images/uploads/menu-setup.jpg
+category: Setup
 ---
 
 # The sidebar navigation in Bael displays the pages collection and the links list inside the Setup collection.
