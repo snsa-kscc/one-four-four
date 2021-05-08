@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="gallery">
     <div
       class="feat-wrapper"
       v-for="(galleryImage, i) in galleryImages"
