@@ -23,8 +23,6 @@ Calligraphy for us represents making a mark, leaving a track. All of the individ
 
 Tire Calligraphy started as and still represents the passion for cycling, but gradually reinvented itself into a wider interest and never-ending thirst for the next challenge, being physical as in running and climbing, being social with collaborations that match our vision of aesthetics and functionality, with every individual in mind.
 
-TC manifesto. 199144.
-
 
 
 Co-founder 
