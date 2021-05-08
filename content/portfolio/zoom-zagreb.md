@@ -12,17 +12,15 @@ category: Events
 ---
 **Client: Ferivi / Running Gate**
 
-**About the client:** Running specialty store located in Zagreb, Croatia.
+**About the client** 
 
-**Project:**
+Running specialty store located in Zagreb, Croatia.
 
-**About the project:**
+**About the project**
 
 Trial event as a promo and to boost sales of the Nike Zoom Fly Flyknit running shoe.  
 
 Running Gate + Zagreb Runners as influencers
-
-
 
 Event concept
 
