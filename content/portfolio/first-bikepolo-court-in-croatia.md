@@ -1,6 +1,6 @@
 ---
 title: FIRST BIKEPOLO COURT IN CROATIA
-date: Monday May 3rd, 2021
+date: 2021-05-02T22:00:00.000Z
 thumbnail: /images/uploads/indiegogo_bike_polo_zagreb_feature.webp
 galleryImages:
   - /images/uploads/indiegogo_bike_polo_zagreb_01.webp
