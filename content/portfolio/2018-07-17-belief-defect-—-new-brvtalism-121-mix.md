@@ -1,8 +1,8 @@
 ---
-  title: Belief Defect — New Brvtalism 121 Mix
-  date: Sunday July 15th, 2018
-  thumbnail: /images/uploads/belief.jpg
-  category: Music
+title: Belief Defect — New Brvtalism 121 Mix
+date: 2016-07-27T22:00:00.000Z
+thumbnail: /images/uploads/belief.jpg
+category: Music
 ---
 > Shrouded in mystery, the [Belief Defect](https://soundcloud.com/beliefdefect) project is hidden behind the idea of 'monothematic delusion', meaning a delusional state that concerns only one particular topic. Given this ideology it is no surprise that [their mix](http://thebrvtalist.com/newbrvtalism121/) is just as enigmatic as the project.
 
