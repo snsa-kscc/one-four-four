@@ -12,7 +12,7 @@ galleryImages:
   - /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_07.webp
   - /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_08.webp
 ---
-**Client:** Approved Shop
+**Client: Approved Shop**
 
 **About the client** 
 
