@@ -1,8 +1,8 @@
 ---
-  title: Nicolas Jaar - Selected Network Sets
-  date: Tuesday July 17th, 2018
-  thumbnail: /images/uploads/define.png
-  category: Music
+title: Nicolas Jaar - Selected Network Sets
+date: 2016-06-07T22:00:00.000Z
+thumbnail: /images/uploads/define.png
+category: Music
 ---
 
 ## A playlist of live recordings from Nicolas Jaar.
