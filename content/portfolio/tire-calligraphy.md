@@ -1,6 +1,6 @@
 ---
 title: TIRE CALLIGRAPHY
-date: Saturday May 8th, 2021
+date: 2021-05-08T22:00:00.000Z
 galleryImages:
   - /images/uploads/tirecalligraphy_feature.webp
   - /images/uploads/tirecalligraphy_webshop_01.webp
