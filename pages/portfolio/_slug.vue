@@ -6,15 +6,15 @@
     >
       <div class="xs-mt2 xs-p2 bcg-item">
         <div class="item xs-block xs-full-height">
-          <lazy-featured-image
-            v-if="post.thumbnail"
-            :title="post.title"
-            :thumbnail="post.thumbnail"
-          />
           <lazy-gallery
             v-if="post.galleryImages"
             :title="post.title"
             :galleryImages="post.galleryImages"
+          />
+          <lazy-featured-image
+            v-if="post.thumbnail"
+            :title="post.title"
+            :thumbnail="post.thumbnail"
           />
           <h1 class="xs-py3 main-title">{{ post.title }}</h1>
           <div class="xs-mt-5 bold">
