@@ -22,7 +22,7 @@ body {
   font-weight: 600;
   letter-spacing: calc(-0.2rem + -0.05vw);
   line-height: 1.1;
-  max-width: 48rem;
+  text-align: center;
 }
 
 .slide-left-enter,
@@ -173,7 +173,7 @@ iframe {
   }
 }
 
-.feat-wrapper {
+/* .feat-wrapper {
   width: 100vw;
   position: relative;
   left: 50%;
@@ -187,7 +187,7 @@ iframe {
   width: 100%;
   object-fit: cover;
   object-position: 50% 50%;
-}
+} */
 .container {
   max-width: 100vw;
   overflow: hidden;

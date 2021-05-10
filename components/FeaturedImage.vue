@@ -1,5 +1,5 @@
 <template>
-  <div class="feat-wrapper" :key="`${title}-featimage`">
+  <div class="featured mb-5 md:mb-24" :key="`${title}-image`">
     <transition appear name="fade">
       <img
         draggable="false"

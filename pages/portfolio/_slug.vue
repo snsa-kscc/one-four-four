@@ -1,11 +1,12 @@
 <template>
   <main>
     <div
-      class="full-height single"
+      class="max-w-screen-2xl mx-auto"
       :style="`min-height:calc(85vh - var(--nav-height));margin-top:var(--nav-height)`"
     >
-      <div class="xs-mt2 xs-p2 bcg-item">
-        <div class="item xs-block xs-full-height">
+      <h1 class="py-16 md:py-48 main-title">{{ post.title }}</h1>
+      <div class="project md:flex md:items-start space-x-8">
+        <div class="images">
           <lazy-gallery
             v-if="post.galleryImages"
             :title="post.title"
@@ -16,7 +17,8 @@
             :title="post.title"
             :thumbnail="post.thumbnail"
           />
-          <h1 class="xs-py3 main-title">{{ post.title }}</h1>
+        </div>
+        <div class="description">
           <div class="xs-mt-5 bold">
             <ul class="list-unstyled xs-flex xs-flex-align-center">
               <li class="xs-inline-block xs-mr1" v-if="post.category">
@@ -28,7 +30,6 @@
                   >
                 </div>
               </li>
-              <li class="xs-inline-block">{{ post.date }}</li>
             </ul>
           </div>
           <div class="xs-py3 post-content text-gray-lighter">
