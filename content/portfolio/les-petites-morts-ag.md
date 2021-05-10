@@ -1,6 +1,6 @@
 ---
 title: LES PETITES MORTS AG
-date: 2021-05-07T22:00:00.000Z
+date: 2021-05-08T22:00:00.000Z
 thumbnail: /images/uploads/lespetitesmortsag_feature.webp
 galleryImages:
   - /images/uploads/lespetitesmortsag_01.webp
