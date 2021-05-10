@@ -1,6 +1,6 @@
 ---
 title: ZAGREB TRAIL RUNNERS
-date: 2021-05-07T22:11:30.910Z
+date: 2021-05-03T23:11:00.000Z
 thumbnail: /images/uploads/zagreb_trail_runners_ferivi_feature.webp
 galleryImages:
   - /images/uploads/zagreb_trail_runners_ferivi_4.webp
