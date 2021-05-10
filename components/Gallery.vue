@@ -1,7 +1,7 @@
 <template>
   <div class="gallery">
     <div
-      class="gallery-item mb-5 md:mb-24"
+      class="gallery-item mb-5 md:mb-12"
       v-for="(galleryImage, i) in galleryImages"
       :key="`${i}-image`"
     >

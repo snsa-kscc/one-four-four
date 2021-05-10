@@ -1,5 +1,5 @@
 <template>
-  <div class="featured mb-5 md:mb-24" :key="`${title}-image`">
+  <div class="featured mb-5 md:mb-12" :key="`${title}-image`">
     <transition appear name="fade">
       <img
         draggable="false"
