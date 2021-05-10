@@ -19,7 +19,7 @@ Also a part of the mission is to promote the urban sport of bikepolo and growing
 
 * **About the project** 
 
-The only international bikepolo tournament in Croatia. Six years and counting, with players from Croatia, Slovenia, Austria, Germany, Italy, Hungary, Poland, Switzerland, Finland, Estonia, England, USA.   
+The only international bikepolo tournament in Croatia. Six years and counting, with players from Croatia, Slovenia, Austria, Germany, Italy, Hungary, Czech Republic, Poland, Switzerland, Finland, Estonia, England and USA.   
 
 Event concept
 
