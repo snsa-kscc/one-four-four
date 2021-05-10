@@ -1,5 +1,5 @@
 ---
-title: ZAGREB INTERNATIONAL
+title: ZAGREB INTERNATIONAL - BIKEPOLO TOURNAMENT
 date: 2021-05-01T22:14:24.425Z
 thumbnail: /images/uploads/zagreb_international_bike_polo_feature.webp
 galleryImages:
