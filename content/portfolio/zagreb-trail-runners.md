@@ -18,7 +18,7 @@ Running specialty store located in Zagreb, Croatia.
 
 **Project**
 
-A customer focused event , a presentation and a trial of the Nike Air Zoom Pegasus Trail shoe. 
+A customer focused event, a presentation and a trial of the Nike Air Zoom Pegasus Trail shoe. 
 
 Running Gate + Zagreb Runners as influencers
 
