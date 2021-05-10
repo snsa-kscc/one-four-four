@@ -1,6 +1,6 @@
 ---
 title: ZOOM ZAGREB
-date: 2021-05-05T22:12:58.420Z
+date: 2021-05-03T22:12:00.000Z
 thumbnail: /images/uploads/zoom_zagreb_ferivi_feature.webp
 galleryImages:
   - /images/uploads/zoom_zagreb_ferivi_01.webp
