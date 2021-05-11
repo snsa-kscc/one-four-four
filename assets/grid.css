@@ -190,7 +190,7 @@ iframe {
 } */
 .container {
   max-width: 100vw;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .single .bcg-item {

@@ -18,7 +18,7 @@
             :thumbnail="post.thumbnail"
           />
         </div>
-        <div class="description">
+        <div class="description md:sticky md:top-32">
           <div class="xs-mt-5 bold">
             <ul class="list-unstyled xs-flex xs-flex-align-center">
               <li class="xs-inline-block xs-mr1" v-if="post.category">

@@ -6,14 +6,19 @@
       v-model="query"
       autocomplete="off"
     />
-    <img class="xs-absolute searchicon xs-r0 sm-l0" src="~/assets/bx-search.svg" />
+    <img
+      class="xs-absolute searchicon xs-r0 sm-l0"
+      src="~/assets/bx-search.svg"
+    />
     <smooth-reflow tag="ul" class="xs-absolute results">
       <li
         @click="onClick(article.path)"
         class="xs-border xs-p2 cursor-pointer"
         v-for="article of articles"
         :key="article.path"
-      >{{article.title}}</li>
+      >
+        {{ article.title }}
+      </li>
     </smooth-reflow>
   </div>
 </template>
@@ -39,7 +44,7 @@ export default {
         return;
       }
 
-      this.articles = await this.$content("blog")
+      this.articles = await this.$content("portfolio")
         .only(["title", "path"])
         .sortBy("createdAt", "desc")
         .limit(12)

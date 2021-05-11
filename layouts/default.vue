@@ -1,5 +1,5 @@
 <template>
-  <section class="container xs-text-5 md-text-4">
+  <section class="container">
     <onefourfour-header />
     <nuxt />
     <lazy-slide-out />
