@@ -1,5 +1,5 @@
 ---
-title: "FIRST BIKEPOLO COURT IN CROATIA / MULTIFUNCTIONAL URBAN SPORTS CENTRE "
+title: "MULTIFUNCTIONAL URBAN SPORTS CENTRE "
 date: 2021-05-02T22:00:00.000Z
 thumbnail: /images/uploads/indiegogo_bike_polo_zagreb_feature.webp
 galleryImages:
