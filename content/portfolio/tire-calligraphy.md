@@ -1,6 +1,7 @@
 ---
 title: TIRE CALLIGRAPHY
 date: 2021-05-04T22:00:00.000Z
+thumbnail: /images/uploads/tirecalligraphy_feature.webp
 galleryImages:
   - /images/uploads/tirecalligraphy_feature.webp
   - /images/uploads/tirecalligraphy_webshop_01.webp
