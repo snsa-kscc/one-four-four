@@ -4,7 +4,9 @@
       class="max-w-screen-2xl mx-auto"
       :style="`min-height:calc(85vh - var(--nav-height));margin-top:var(--nav-height)`"
     >
-      <h1 class="py-16 md:py-48 main-title">{{ post.title }}</h1>
+      <h1 class="portfolio-title py-16 md:py-48 text-center">
+        {{ post.title }}
+      </h1>
       <div class="project md:flex md:items-start space-x-8">
         <div class="images">
           <lazy-gallery

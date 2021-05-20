@@ -1,5 +1,5 @@
 <template>
-  <footer class="fill-gray-lighter xs-text-6 md-text-5">
+  <footer class="xs-text-6 md-text-5">
     <div class="r no-gap">
       <div v-if="pagination.active" class="c-12 xs-text-left xs-p2">
         <lazy-pagination :pagination="pagination" />

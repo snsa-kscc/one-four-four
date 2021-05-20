@@ -1,7 +1,7 @@
 <template>
   <nav ref="navBar" :data-nav="`${pagetitle}`" id="navbar">
     <div class="r xs-border-bottom">
-      <div class="c-4 xs-text-left xs-p2 sm-border-right">
+      <div class="c-4 xs-text-left xs-p2">
         <div class="item">
           <nuxt-link class="sitename" to="/" exact>{{
             $store.state.info.sitename
@@ -9,9 +9,7 @@
         </div>
       </div>
 
-      <div
-        class="c-4 xs-border-top xs-border-bottom sm-border-bottom-none sm-border-top-none sm-border-left-none sm-border-right xs-p2"
-      >
+      <div class="c-4 xs-p2">
         <div class="item xs-flex">
           <lazy-search />
         </div>
@@ -19,7 +17,7 @@
       <div
         v-if="pagetitle"
         style="z-index: 55"
-        class="c-12 sm-border-top xs-p2 xs-text-6 titlebar"
+        class="c-12 xs-p2 xs-text-6 titlebar"
       >
         <div class="item">
           <nuxt-link to="/" exact>Home</nuxt-link>
