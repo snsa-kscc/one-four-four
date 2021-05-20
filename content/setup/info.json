@@ -20,5 +20,7 @@
       "position": "3",
       "link": "https://www.netlify.com/"
     }
-  ]
+  ],
+  "linkcolor": "#32b337",
+  "altlayout": true
 }
