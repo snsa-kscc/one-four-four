@@ -24,3 +24,5 @@ Concept / Project management
 Event planning  / Event execution
 
 Marketing / PR
+
+**STATUS: Delivered**
