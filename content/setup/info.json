@@ -4,23 +4,7 @@
   "siteicon": "/images/uploads/144-logo.webp",
   "showmenu": true,
   "emailsignup": false,
-  "menu": [
-    {
-      "name": "jake101",
-      "position": "1",
-      "link": "https://www.jake101.com/"
-    },
-    {
-      "name": "Nuxt.js",
-      "position": "2",
-      "link": "https://www.nuxtjs.org/"
-    },
-    {
-      "name": "Netlify",
-      "position": "3",
-      "link": "https://www.netlify.com/"
-    }
-  ],
+  "menu": [],
   "linkcolor": "#32b337",
   "altlayout": false
 }
