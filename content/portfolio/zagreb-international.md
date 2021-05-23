@@ -21,18 +21,8 @@ Also a part of the mission is to promote the urban sport of bikepolo and growing
 
 The only international bikepolo tournament in Croatia. Six years and counting, with players from Croatia, Slovenia, Austria, Germany, Italy, Hungary, Czech Republic, Poland, Switzerland, Finland, Estonia, England and USA.   
 
-Event concept
+Event concept / Project management
 
-Project management
+Brand identity / Copywriting
 
-Brand identity
-
-Copywriting
-
-Marketing
-
-PR
-
-Execution, coordination 
-
-Hospitality
+Marketing / PR
