@@ -20,18 +20,10 @@ Running specialty store located in Zagreb, Croatia.
 
 Trial event as a promo and to boost sales of the Nike Zoom Fly Flyknit running shoe.  
 
-Running Gate + Zagreb Runners as influencers
+**[Running Gate](https://runninggate.hr)** + Zagreb Runners as influencers
 
-Event concept
+Event concept / Project management
 
-Influencer marketing
+Influencer marketing / Strytelling
 
-Project management
-
-Copywriting
-
-Event planning
-
-Execution
-
-Coordination
+Event planning / Execution / Coordination
