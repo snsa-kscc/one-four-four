@@ -24,6 +24,6 @@ Trial event as a promo and to boost sales of the Nike Zoom Fly Flyknit running s
 
 Event concept / Project management
 
-Influencer marketing / Strytelling
+Influencer marketing / Storytelling
 
 Event planning / Execution / Coordination
