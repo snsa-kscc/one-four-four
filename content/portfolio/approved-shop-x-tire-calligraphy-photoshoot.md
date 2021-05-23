@@ -17,7 +17,7 @@ galleryImages:
   - /images/uploads/deftones_90s_reference_2.webp
 category: Photo shoot
 ---
-**Client: Approved Shop**
+**Client: approved! Shop**
 
 **About the client** 
 
@@ -25,9 +25,7 @@ Streetwear shop located in Zagreb and Split, Croatia.
 
 **About the project**
 
-A photo shoot for the Tire Calligraphy 2021 collection, available in Approved Shop retail locations in Zagreb and Split and online. 
-
-
+A photo shoot for the Tire Calligraphy 2021 collection, available in approved! shop retail locations in Zagreb and Split and online. 
 
 Creative direction
 
