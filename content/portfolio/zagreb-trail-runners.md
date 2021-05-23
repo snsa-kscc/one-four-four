@@ -22,16 +22,8 @@ A customer focused event, a presentation and a trial of the Nike Air Zoom Pegasu
 
 **[Running Gate](https://runninggate.hr)** + Zagreb Runners as influencers
 
-Event concept
+Event concept / Project management
 
-Influencer marketing
+Influencer marketing / Storytelling
 
-Project management
-
-Copywriting
-
-Event planning
-
-Execution
-
-Coordination
+Event planning / Execution
