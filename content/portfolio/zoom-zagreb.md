@@ -27,3 +27,5 @@ Event concept / Project management
 Influencer marketing / Storytelling
 
 Event planning / Execution / Coordination
+
+**STATUS: Delivered**
