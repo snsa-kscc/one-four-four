@@ -36,3 +36,5 @@ Referencing the 90s skate culture from the logical sources such as film and musi
 **Model scouting / Model styling:** 
 
 As both Tire Calligraphy 2021 collections and offering in general are neutral-gender, this was the main direction for the styling of the models, them of course being of both gender. The idea was to switch the "roles", more precisely, the styles of the same clothing pieces - the girl wearing them oversized, for a baggy look, which in the 90s was predominatly a male "uniform"; and the guy wearing them as an alternative, true to size.
+
+**STATUS: Delivered**
