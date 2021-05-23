@@ -19,14 +19,8 @@ An urban apparel brand originated in Zagreb, Croatia, oriented globally.
 
 Introducing Tire Calligraphy as a new streetwear brand to the general public and potential new customers in Zagreb, Croatia. Joining forces with the best sneaker boutique in Croatia – NOSS (now Approved!). 
 
-Concept
+Concept / Project management
 
-Project management
+Event planning  / Event execution
 
-Event planning 
-
-Event execution
-
-Marketing 
-
-PR
+Marketing / PR
