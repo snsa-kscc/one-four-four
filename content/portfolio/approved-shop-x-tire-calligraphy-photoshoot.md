@@ -11,6 +11,10 @@ galleryImages:
   - /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_06.webp
   - /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_07.webp
   - /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_08.webp
+  - /images/uploads/kids_1995_reference.webp
+  - /images/uploads/kids_1995_reference_2.webp
+  - /images/uploads/deftones_90s_reference.webp
+  - /images/uploads/deftones_90s_reference_2.webp
 ---
 **Client: Approved Shop**
 
