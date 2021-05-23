@@ -25,9 +25,7 @@ Streetwear shops located in Zagreb and Split, Croatia.
 
 **About the project**
 
-A photo shoot for the Tire Calligraphy 2021 collections, available in approved! shop retail locations in Zagreb and Split and online. 
-
-
+A photo shoot for the Tire Calligraphy 2021 collections, available in **[approved!](https://approved.style/asortiman/muskarci-brandovi-tire-calligraphy/143)** shop retail locations in Zagreb and Split and online. 
 
 **Creative direction / Concept / Storytelling:**
 
