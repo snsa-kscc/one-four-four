@@ -30,3 +30,5 @@ Co-founder /  Brand development / Business development
 Creative direction / Storytelling / Visual m,erchandising & Styling
 
 Influencer marketing / Model scouting / Location scouting
+
+**STATUS: Ongoing**
