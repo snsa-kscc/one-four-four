@@ -14,7 +14,7 @@ galleryImages:
 
 **About the client**
 
-Running specialty store located in Zagreb, Croatia.
+A running specialty store located in Zagreb, Croatia.
 
 **Project**
 
