@@ -15,6 +15,7 @@ galleryImages:
   - /images/uploads/kids_1995_reference_2.webp
   - /images/uploads/deftones_90s_reference.webp
   - /images/uploads/deftones_90s_reference_2.webp
+category: Photo shoot
 ---
 **Client: Approved Shop**
 
