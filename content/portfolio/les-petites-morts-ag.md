@@ -11,7 +11,7 @@ category: Modelling agency
 ---
 **About** 
 
-A modelling agency focused on diversity and inclusivity, because everyone is beautiful and it is all in the eye of the beholder, a “boutique alt” agency by the name of Les Petites Morts, recently revealed itself to the public eye. Located in Zagreb, Croatia; oriented globally. 
+A modelling agency focused on diversity and inclusivity, because everyone is beautiful and it is all in the eye of the beholde;, a “boutique alt” agency by the name of **[Les Petites Morts](https://www.instagram.com/lespetitesmorts.agency/)**, recently revealed itself to the public eye. Located in Zagreb, Croatia; oriented globally. 
 
 Owner / Project management / Creative direction
 
