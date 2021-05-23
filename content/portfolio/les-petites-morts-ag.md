@@ -18,3 +18,5 @@ Owner / Project management / Creative direction
 Marketing / PR
 
 Model booking / Model scouting / Location scouting
+
+**STATUS: Ongoing**
