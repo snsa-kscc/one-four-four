@@ -9,6 +9,7 @@ galleryImages:
   - /images/uploads/zagreb_trail_runners_ferivi_7.webp
   - /images/uploads/zagreb_trail_runners_ferivi_9.webp
   - /images/uploads/zagreb_trail_runners_ferivi_10.webp
+category: Events
 ---
 **Client: Ferivi / Running Gate**
 
