@@ -15,7 +15,7 @@ galleryImages:
   - /images/uploads/kids_1995_reference_2.webp
   - /images/uploads/deftones_90s_reference.webp
   - /images/uploads/deftones_90s_reference_2.webp
-video: /images/uploads/st.cocqnm0qbk11.mp4
+video: ""
 category: Photo shoot
 ---
 **Client: approved! Shop**
