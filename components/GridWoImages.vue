@@ -12,14 +12,6 @@
           class="portfolio-title md:flex items-end mx-2 my-4 md:mx-12 md:my-28"
         >
           <nuxt-link class="item-title" :to="p.path">{{ p.title }}</nuxt-link>
-          <nuxt-link class="item-pic" :to="p.path">
-            <img
-              draggable="false"
-              class="featured-image"
-              loading="lazy"
-              :src="p.thumbnail"
-              :alt="`${p.title} featured image`"
-          /></nuxt-link>
         </div>
       </div>
     </div>
@@ -50,6 +42,10 @@ export default {
 </script>
 
 <style>
+.portfolio-title {
+  font-family: "MonumentExtendedUltrabold";
+  font-size: clamp(1.4rem, 4vw, 3.5rem);
+}
 .onefourfour-grid .bcg-item {
   opacity: 0;
   transition: 0.2s opacity ease-out;

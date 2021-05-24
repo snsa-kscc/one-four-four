@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "MonumentExtendedUltrabold";
+  src: url("~assets/fonts/MonumentExtended-Ultrabold.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
 :root {
   --nav-height: 54px;
   --textcolor: #000;
@@ -5,7 +12,6 @@
   --active-bg: #dbdbdb;
   font-size: calc(1rem + 0.2vw);
 }
-
 html,
 body {
   -moz-osx-font-smoothing: grayscale;
@@ -15,15 +21,6 @@ body {
   letter-spacing: -0.3px;
   text-rendering: optimizeLegibility;
 }
-
-@font-face {
-  font-family: "MonumentExtendedUltrabold";
-  src: url("~assets/fonts/MonumentExtended-Ultrabold.woff") format("woff");
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility;
-}
-
 .slide-left-enter,
 .slide-right-leave-active {
   transform: translate(50%, 0);
@@ -59,7 +56,10 @@ body {
 .post-content {
   max-width: 75ch;
 }
-
+.portfolio-title {
+  font-family: "MonumentExtendedUltrabold";
+  font-size: clamp(1.4rem, 4vw, 3.5rem);
+}
 .r {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
@@ -232,4 +232,7 @@ nav .r {
   .xs-visible {
     visibility: visible;
   }
+}
+.contact__item {
+  position: relative;
 }

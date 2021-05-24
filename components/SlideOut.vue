@@ -47,12 +47,12 @@
       >
         <nuxt-link :to="p.path">{{ p.title }}</nuxt-link>
       </li>
-      <li
+      <!-- <li
         v-if="info.menu"
         class="xs-mt5 onefourfour-slideout-menu-item heading-font"
       >
         Links
-      </li>
+      </li> -->
       <li
         v-for="m in info.menu"
         :key="m.position"

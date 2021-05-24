@@ -39,7 +39,10 @@
                     <textarea name="message" placeholder="" required></textarea>
                     <label><span>Message</span></label>
                   </div>
-                  <button class="button button--cta mt-8" type="submit">
+                  <button
+                    class="bg-black text-white p-4 rounded mt-8 hover:bg-gray-700"
+                    type="submit"
+                  >
                     Send
                   </button>
                 </form>
@@ -138,9 +141,9 @@ export default {
 
 .confirmation {
   background: black;
-  padding: 2em;
+  padding: 1em;
   position: absolute;
-  right: 100px;
+  right: 10%;
   bottom: 0;
   transform: translateY(100%);
   transition: all 1s ease;

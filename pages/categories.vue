@@ -1,9 +1,11 @@
 <template>
-  <grid :posts="categories" />
+  <grid-wo-images :posts="categories" />
 </template>
 
 <script>
+import GridWoImages from "../components/GridWoImages.vue";
 export default {
+  components: { GridWoImages },
   watchQuery: ["page"],
 
   async asyncData({ params, app, payload, route, store }) {
@@ -24,7 +26,7 @@ export default {
   mounted() {
     this.$store.commit("SET_CURRENT", {
       title: "Categories",
-      dir: ''
+      dir: "",
     });
   },
   computed: {

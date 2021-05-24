@@ -64,11 +64,13 @@
   font-weight: inherit;
   color: var(--textcolor);
   line-height: 1.1;
-  letter-spacing: -0.15rem;
+  /* letter-spacing: -0.15rem; */
 }
 .post-content .nuxt-content h1 {
-  margin-top: 0;
+  font-family: "MonumentExtendedUltrabold";
   font-size: 2.827rem;
+  font-size: clamp(1.4rem, 4vw, 3.5rem);
+  margin-top: 0;
 }
 .post-content .nuxt-content h2 {
   font-size: 2.827rem;
