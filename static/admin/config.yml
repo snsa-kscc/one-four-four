@@ -28,7 +28,7 @@ collections:
           summary: "{{fields.image}}",
           field: { label: Image, name: image, widget: image },
         }
-      - { label: "Video", name: "video", widget: "file" }
+      - { label: "Video", name: "video", widget: "file", required: false }
       - {
           label: "Category",
           name: "category",
