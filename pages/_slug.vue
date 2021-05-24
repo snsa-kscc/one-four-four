@@ -20,11 +20,11 @@
                   name="contact"
                   method="POST"
                   action="/#contact"
-                  netlify-honeypot="bot-field"
                   data-netlify="true"
+                  data-netlify-honeypot="bot-field"
                 >
                   <div class="hidden">
-                    <input type="text" name="bot-field" placeholder="" />
+                    <input value="contact" name="form-name" placeholder="" />
                     <label><span>Phone</span></label>
                   </div>
                   <div class="form-entry">
