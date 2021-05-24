@@ -5,6 +5,7 @@ thumbnail: /images/uploads/zagreb_international_bike_polo_feature.webp
 galleryImages:
   - /images/uploads/zagreb_international_bike_polo_01.webp
   - /images/uploads/zagreb_international_bike_polo_02.webp
+video: /images/uploads/zg_international_1.mp4
 category: Events
 ---
 **Client: Bike Polo Zagreb**
