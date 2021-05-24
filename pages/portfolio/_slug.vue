@@ -19,6 +19,11 @@
             :title="post.title"
             :thumbnail="post.thumbnail"
           />
+          <lazy-video
+            v-if="post.video"
+            :title="post.title"
+            :video="post.video"
+          />
         </div>
         <div class="description md:sticky md:top-32">
           <div class="xs-mt-5 bold">
