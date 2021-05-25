@@ -22,10 +22,10 @@ Trial event as a promo and to boost sales of the Nike Zoom Fly Flyknit running s
 
 **[Running Gate](https://runninggate.hr)** + Zagreb Runners as influencers
 
-Event concept / Project management
+**Event concept / Storytelling / Influencer marketing**
 
-Influencer marketing / Storytelling
 
-Event planning / Execution / Coordination
+
+**Project management / Event planning / Execution / Coordination**
 
 **STATUS: Delivered**
