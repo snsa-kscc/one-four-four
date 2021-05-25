@@ -31,7 +31,9 @@ Every runner know shoes are a tool which works with and for them in their every 
 
 Joining forces with Nike Berlin, who provided the test shoes and Zagreb Runners as Running Gates and Nike influencers in Croatia, hype via digital channels was created before the event itself. 
 
-Every runner was able to try out the Peg Trail shoe in its natural environment - the location I found perfect was of course Maksimir - a favorite destination for all types of nature lovers, age groups and interests, be it them enjoying a casual walk, a picnic with a few badminton racquests on the side, a yoga session or a full, all out running session on the trails.       
+Every runner was able to try out the Peg Trail shoe in its natural environment - the location I found perfect was of course Maksimir - a favorite destination for all types of nature lovers, age groups and interests, be it them enjoying a casual walk, a picnic with a few badminton racquests on the side, a yoga session or a full, all out running session on the trails.  
+
+To make it more fun, and of course a proper work out, after a warm up, the group did hills sprints with a competiton in the end and Running Gate of course provided the prizes and a much needed refreshment afterwards.     
 
 **Project management / Event planning / Execution**
 
