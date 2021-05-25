@@ -25,10 +25,10 @@ Calligraphy for us represents making a mark, leaving a track. All of the individ
 
 Tire Calligraphy started as and still represents the passion for cycling, but gradually reinvented itself into a wider interest and never-ending thirst for the next challenge, being physical as in running and climbing, being social with collaborations that match our vision of aesthetics and functionality, with every individual in mind.
 
-Co-founder /  Brand development / Business development
+**Co-founder /  Brand development / Business development**
 
-Creative direction / Storytelling / Visual m,erchandising & Styling
+**Creative direction / Storytelling / Visual m,erchandising & Styling**
 
-Influencer marketing / Model scouting / Location scouting
+**Influencer marketing / Model scouting / Location scouting**
 
 **STATUS: Ongoing**
