@@ -31,7 +31,10 @@
               <li class="xs-inline-block xs-mr1" v-if="post.category">
                 <div class="tag fill-gray-darker xs-border">
                   <nuxt-link
-                    :to="`/category/${post.category.toLowerCase()}`"
+                    :to="`/category/${post.category
+                      .replace(/([a-z])([A-Z])/g, `$1-$2`)
+                      .replace(/[\s_]+/g, `-`)
+                      .toLowerCase()}`"
                     class="tag__link text-white"
                     >{{ post.category }}</nuxt-link
                   >

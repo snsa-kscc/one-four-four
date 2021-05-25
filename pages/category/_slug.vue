@@ -13,7 +13,7 @@ export default {
 
     const posts = await $content("portfolio")
       .sortBy("createdAt", "desc")
-      .where({ category: category.description })
+      .where({ category: category.title })
       .fetch();
 
     return {
