@@ -27,7 +27,7 @@ Tire Calligraphy started as and still represents the passion for cycling, but gr
 
 **Co-founder /  Brand development / Business development**
 
-**Creative direction / Storytelling / Visual m,erchandising & Styling**
+**Creative direction / Storytelling / Visual merchandising & Styling**
 
 **Influencer marketing / Model scouting / Location scouting**
 
