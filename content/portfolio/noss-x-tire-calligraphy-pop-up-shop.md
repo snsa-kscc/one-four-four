@@ -21,6 +21,10 @@ Introducing **[Tire Calligraphy](https://tirecalli.com)** as a new streetwear br
 
 Concept / Project management
 
+The idea behind the event was to present Tire Calligraphy to it's main audience, that being "street kids" - no better way to do it, but to join forces with, back then, the heart and source for Zagrebs' streetstyle - NOSS streetwear boutique, a shop unique for its offer and events created for the communitiy, in the entire Croatia. 
+
+But to make it with a twist, becasue this is how Tire Calligraphy roles, attention to details is revealed in the eye of the beholder only with the second or third look - this is the way TC creates its designs, this is the way clothing items are architected, and finally thius was the only appropriate way to execute the event. Let me explain it more precisely, the clothing items available were displayed not only on a clothing rack, now specific and recognizable to TC fans to blend in as a natural element of the store itself, but were displayed as a museum / art exhibition artifacts, on high     
+
 Event planning  / Event execution
 
 Marketing / PR
