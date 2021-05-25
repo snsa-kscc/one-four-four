@@ -25,7 +25,7 @@ A customer focused event, a presentation and a trial of the Nike Air Zoom Pegasu
 
 **Event concept / Influencer marketing / Storytelling**
 
-What better way to do something for the Zagreb running community, than to give the runners a chance to try out the new and highly awaited Nikes   
+What better way to do something for the Zagreb running community, than to give the runners a chance to try out the new and highly awaited Nike trail running shoe, Nike Air Zoom Pegasus Trail. Every runner know shoes are a tool which works with and for them in their every day activity, be it a training session or on a race day. Also, the various conditions on a flat road surface and a track course, or be it "out in the wild", on the trails.     
 
 **Project management / Event planning / Execution**
 
