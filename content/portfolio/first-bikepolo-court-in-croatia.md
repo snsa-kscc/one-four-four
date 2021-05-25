@@ -23,7 +23,7 @@ After eight years of bikepolo in Croatia, training sessions on empty school yard
 
 What started as **[a project to build a first bikepolo court in Zagreb](https://www.indiegogo.com/projects/first-bikepolo-court-in-croatia#/)**, propelled to a more extensive one, this being an urban sports centre. 
 
-The bikepolo court would be sufficient and appropriate enough to be used as a court for street soccer (futsal), in-line hokey, freestyle bmx and skateboarding and streetball (street basketball). Adding a calisthenics "jungle gym", the venue is trully given an urban multi-sport functionality.  
+The bikepolo court would be sufficient and appropriate enough to be used as a court for street soccer (futsal), in-line hokey, freestyle bmx and skateboarding and streetball (street basketball). Adding a calisthenics "jungle gym", the venue would trully be given an urban multi-sport functionality.  
 
 Project management / Creative direction
 
@@ -32,7 +32,5 @@ Copywriting / PR
 Sponsor scouting
 
 Execution, coordination
-
-
 
 **STATUS: Ongoing**
