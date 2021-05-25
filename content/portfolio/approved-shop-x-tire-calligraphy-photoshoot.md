@@ -32,7 +32,7 @@ A photo shoot for the Tire Calligraphy 2021 collections, available in **[approve
 
 The goal of the campaign was to introduce the latest TC collections to customers of approved!, which are mostly young people involved in one way or another in the street culture, being it, now again popular skateboarding, bikes and audio-visual arts.  
 
-Referencing the 90s skate culture from the logical sources such as film and music, as an inspiration for the photo shoot, I singled out two, first being the now iconic Kids movie from 1995. and music from the US "rock" band Deftones, also making moves in the early nineties in the aforementioned US skate scene. Both of which influenced my own interests in these communities and he culture around them.      
+Referencing the 90s skate culture from the logical sources such as film and music, as an inspiration for the photo shoot, I singled out two, first being the now iconic Kids movie from 1995. and music from the US "rock" band Deftones, also making moves in the early nineties in the aforementioned US skate scene. Both of which influenced my own interests in these communities and the culture around them.      
 
 **Model scouting / Model styling:** 
 
