@@ -25,12 +25,12 @@ What started as **[a project to build a first bikepolo court in Zagreb](https://
 
 The bikepolo court would be sufficient and appropriate enough to be used as a court for street soccer (futsal), in-line hokey, freestyle bmx and skateboarding and streetball (street basketball). Adding a calisthenics "jungle gym", the venue would trully be given an urban multi-sport functionality.  
 
-Project management / Creative direction
+**Project management / Creative direction**
 
-Copywriting / PR
+**Copywriting / PR**
 
-Sponsor scouting
+**Sponsor scouting**
 
-Execution, coordination
+**Execution, coordination**
 
 **STATUS: Ongoing**
