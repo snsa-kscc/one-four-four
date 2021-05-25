@@ -15,10 +15,10 @@ A modelling agency focused on diversity and inclusivity, because everyone is bea
 
 A “boutique alt” agency by the name of **[Les Petites Morts](https://www.instagram.com/lespetitesmorts.agency/)**, recently revealed itself to the public eye. Located in Zagreb, Croatia; oriented globally. 
 
-Owner / Project management / Creative direction
+**Owner / Project management / Creative direction**
 
-Marketing / PR
+**Marketing / PR**
 
-Model booking / Model scouting / Location scouting
+**Model booking / Model scouting / Location scouting**
 
 **STATUS: Ongoing**
