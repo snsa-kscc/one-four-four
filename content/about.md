@@ -15,7 +15,7 @@ Why are we here and what we do?
 
 With 15+ years of following and researching B2C, B2B and Brick & mortar, before D2C as a term even existed, when social media just started to be something; with 12+ years of experience, be it agency, corporation or NGO; we believe in circularity, sustainability, equal rights and diversity. In all industries and aspects of doing business. We love CSR and pro bono. 
 
-Not at all just as catch phrases, but as solid foundation in approach to communication about products and services, while connecting them with the community, which needs to be just the right one.
+Not at all just as catch phrases, but as a solid foundation in approach to communication about products and services, while connecting them with the community, which needs to be just the right one.
 
 We believe in the power of communities; communities of loyal die-hard fans, who in the end are or will become customers. 
 
