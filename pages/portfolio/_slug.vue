@@ -25,7 +25,7 @@
             :video="post.video"
           />
         </div>
-        <div class="description md:sticky md:top-32">
+        <div class="description md:sticky md:top-32 pr-8">
           <div class="xs-mt-5 bold">
             <ul class="list-unstyled xs-flex xs-flex-align-center">
               <li class="xs-inline-block xs-mr1" v-if="post.category">
