@@ -4,6 +4,7 @@
 
 <script>
 import _chunk from "lodash/chunk";
+// import { Curtains, Plane } from "curtainsjs";
 export default {
   async asyncData({ $content, params, error, store }) {
     const blogPosts = await $content("portfolio")
@@ -36,7 +37,10 @@ export default {
       count: blogPosts.length,
     };
   },
-
+  // mounted() {
+  //   const curtains = new Curtains();
+  //   console.log(curtains);
+  // },
   transition(to, from) {
     if (!from) return "fade";
     return +to.query.page > +from.query.page ? "slide-right" : "slide-left";

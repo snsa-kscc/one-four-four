@@ -1,5 +1,6 @@
 <template>
   <section class="container">
+    <div id="canvas"></div>
     <onefourfour-header />
     <nuxt />
     <lazy-slide-out />

@@ -24,6 +24,12 @@ module.exports = {
         content: siteInfo.sitedescription,
       },
     ],
+    script: [
+      {
+        src:
+          "https://cdn.jsdelivr.net/npm/curtainsjs@8.1.2/dist/curtains.umd.min.js",
+      },
+    ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
       {
@@ -97,7 +103,7 @@ module.exports = {
   /*
    ** Build configuration
    */
-  buildModules: ["@nuxtjs/tailwindcss"],
+  buildModules: ["@nuxtjs/tailwindcss", "nuxt-gsap-module"],
   build: {
     extractCSS: false,
     html: {

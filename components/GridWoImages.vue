@@ -42,7 +42,7 @@ export default {
 </script>
 
 <style>
-.portfolio-title {
+/* .portfolio-title {
   font-family: "MonumentExtendedUltrabold";
   font-size: clamp(1.4rem, 4vw, 3.5rem);
 }
@@ -53,5 +53,5 @@ export default {
 .onefourfour-grid .intersected.bcg-item {
   opacity: 1;
   transition: 0.2s opacity ease-out;
-}
+} */
 </style>

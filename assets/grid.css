@@ -20,6 +20,14 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   letter-spacing: -0.3px;
   text-rendering: optimizeLegibility;
+  position: relative;
+}
+#canvas {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 .slide-left-enter,
 .slide-right-leave-active {
@@ -56,7 +64,8 @@ body {
 .post-content {
   max-width: 75ch;
 }
-.portfolio-title {
+.portfolio-title,
+.hero {
   font-family: "MonumentExtendedUltrabold";
   font-size: clamp(1.4rem, 4vw, 3.5rem);
 }

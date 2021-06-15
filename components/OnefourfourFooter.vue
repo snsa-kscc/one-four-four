@@ -5,7 +5,14 @@
         <lazy-pagination :pagination="pagination" />
       </div>
       <div
-        class="c-12 xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none"
+        class="
+          c-12
+          xs-text-left
+          xs-p2
+          xs-border
+          xs-border-right-none
+          xs-border-bottom-none
+        "
       >
         <div class="item xs-text-6">
           <a href="https://144.hr">144</a> creative agency
@@ -33,9 +40,6 @@ export default {
     },
     connectData() {
       return this.$store.state.connect;
-    },
-    siteDescription() {
-      return this.$store.state.info.sitedescription;
     },
     signupBoolean() {
       return this.$store.state.info.emailsignup;
