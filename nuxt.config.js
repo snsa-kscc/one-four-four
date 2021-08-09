@@ -24,12 +24,7 @@ module.exports = {
         content: siteInfo.sitedescription,
       },
     ],
-    script: [
-      {
-        src:
-          "https://cdn.jsdelivr.net/npm/curtainsjs@8.1.2/dist/curtains.umd.min.js",
-      },
-    ],
+    script: [],
     link: [
       { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
       {
@@ -81,9 +76,9 @@ module.exports = {
    ** Route config for pre-rendering
    */
   router: {
-    scrollBehavior: function(to, from, savedPosition) {
-      return { x: 0, y: 0 };
-    },
+    // scrollBehavior: function(to, from, savedPosition) {
+    //   return { x: 0, y: 0 };
+    // },
     middleware: ["title"],
   },
   plugins: [
@@ -103,7 +98,7 @@ module.exports = {
   /*
    ** Build configuration
    */
-  buildModules: ["@nuxtjs/tailwindcss", "nuxt-gsap-module"],
+  buildModules: ["@nuxtjs/tailwindcss"],
   build: {
     extractCSS: false,
     html: {

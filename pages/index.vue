@@ -1,11 +1,13 @@
 <template>
-  <grid :posts="posts[0]" />
+  <grid-liquid :posts="posts[0]" />
 </template>
 
 <script>
 import _chunk from "lodash/chunk";
-// import { Curtains, Plane } from "curtainsjs";
+import GridLiquid from "../components/GridLiquid.vue";
+
 export default {
+  components: { GridLiquid },
   async asyncData({ $content, params, error, store }) {
     const blogPosts = await $content("portfolio")
       .sortBy("date", "desc")
@@ -37,10 +39,6 @@ export default {
       count: blogPosts.length,
     };
   },
-  // mounted() {
-  //   const curtains = new Curtains();
-  //   console.log(curtains);
-  // },
   transition(to, from) {
     if (!from) return "fade";
     return +to.query.page > +from.query.page ? "slide-right" : "slide-left";
