@@ -1,6 +1,7 @@
 # one-four-four
+
 Website for 144 branding agency based in Zagreb, Croatia
 
 ![144](https://github.com/snsa-kscc/one-four-four/assets/51080349/b5417be7-a173-459a-9427-471ad47e6310)
 
-[144.hr](https://144.hr)
+:globe_with_meridians: [144.hr](https://144.hr)
