@@ -37,9 +37,7 @@
 </template>
 
 <script>
-// import { Curtains, Plane } from "curtainsjs/src/index.mjs";
 import { vs, fs } from "~/assets/shader.js";
-// import gsap from "gsap";
 export default {
   props: {
     posts: {
@@ -74,7 +72,8 @@ export default {
   },
   methods: {
     initCurtains() {
-      this.curtains = new Curtains({
+      const module = require("curtainsjs");
+      this.curtains = new module.Curtains({
         container: this.$refs.canvas,
         pixelRatio: Math.min(1.5, window.devicePixelRatio),
       });
@@ -95,7 +94,12 @@ export default {
     },
 
     setupPlane() {
-      this.plane = new Plane(this.curtains, this.$refs.plane[0], this.params);
+      const module = require("curtainsjs");
+      this.plane = new module.Plane(
+        this.curtains,
+        this.$refs.plane[0],
+        this.params
+      );
       this.plane.onRender(() => {
         this.plane.uniforms.time.value++;
       });

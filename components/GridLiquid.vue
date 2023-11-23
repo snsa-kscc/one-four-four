@@ -83,7 +83,8 @@ export default {
   },
   methods: {
     initCurtains() {
-      this.curtains = new Curtains({
+      const module = require("curtainsjs");
+      this.curtains = new module.Curtains({
         container: this.$refs.canvas,
         pixelRatio: Math.min(1.5, window.devicePixelRatio), // limit pixel ratio for performance
         // autoRender: false, // use gsap ticker to render our scene
@@ -91,9 +92,9 @@ export default {
 
       const planeElements = document.getElementsByClassName("plane");
 
-      this.mouse = new Vec2();
+      this.mouse = new module.Vec2();
       this.lastMouse = this.mouse.clone();
-      this.velocity = new Vec2();
+      this.velocity = new module.Vec2();
 
       const params = {
         vertexShader: vs1,
@@ -189,7 +190,7 @@ export default {
       };
 
       // our ping pong plane
-      const flowMap = new PingPongPlane(
+      const flowMap = new module.PingPongPlane(
         this.curtains,
         this.curtains.container,
         flowMapParams
@@ -201,7 +202,7 @@ export default {
         depth: false, // explicitly disable depth for the ripple effect to work
       };
 
-      const shaderPass = new ShaderPass(this.curtains, passParams);
+      const shaderPass = new module.ShaderPass(this.curtains, passParams);
 
       // create a texture that will hold our flowmap
       const flowTexture = shaderPass.createTexture({
@@ -234,7 +235,7 @@ export default {
 
       // add our planes and handle them
       for (let i = 0; i < planeElements.length; i++) {
-        this.plane = new Plane(this.curtains, planeElements[i], params);
+        this.plane = new module.Plane(this.curtains, planeElements[i], params);
 
         this.planes.push(this.plane);
 
@@ -265,7 +266,7 @@ export default {
           }
           this.updateVelocity = false;
 
-          flowMap.uniforms.velocity.value = new Vec2(
+          flowMap.uniforms.velocity.value = new module.Vec2(
             this.curtains.lerp(this.velocity.x, 0, 0.1),
             this.curtains.lerp(this.velocity.y, 0, 0.1)
           );
@@ -286,7 +287,7 @@ export default {
 
       // wait for our first pass and the flowmap to be ready
       flowTexture.onSourceUploaded(() => {
-        const fxaaPass = new FXAAPass(this.curtains);
+        const fxaaPass = new module.FXAAPass(this.curtains);
       });
     },
 
@@ -294,7 +295,8 @@ export default {
       this.plane = this.planes[index];
       this.plane
         .onReady(() => {
-          this.plane.textures[0].setScale(new Vec2(1.5, 1.5));
+          const module = require("curtainsjs");
+          this.plane.textures[0].setScale(new module.Vec2(1.5, 1.5));
 
           // apply parallax on load
           // applyPlanesParallax(plane);
@@ -315,14 +317,14 @@ export default {
             const curtainBoundingRect = this.curtains.getBoundingRect();
 
             this.plane.setScale(
-              new Vec2(
+              new module.Vec2(
                 curtainBoundingRect.width / planeBoundingRect.width,
                 curtainBoundingRect.height / planeBoundingRect.height
               )
             );
 
             this.plane.setRelativeTranslation(
-              new Vec3(
+              new module.Vec3(
                 (-1 * planeBoundingRect.left) / this.curtains.pixelRatio,
                 (-1 * planeBoundingRect.top) / this.curtains.pixelRatio,
                 0

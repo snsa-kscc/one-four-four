@@ -3,6 +3,7 @@
   "version": "1.0 dev",
   "description": "144 agency portfolio site",
   "author": "dvasadva <office@dvasadva.com>",
+  "type": "module",
   "scripts": {
     "dev": "nuxt",
     "serve": "nuxt",
