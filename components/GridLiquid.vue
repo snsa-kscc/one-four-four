@@ -38,15 +38,15 @@
 </template>
 
 <script>
-import {
-  Curtains,
-  Plane,
-  Vec2,
-  Vec3,
-  PingPongPlane,
-  ShaderPass,
-  FXAAPass,
-} from "curtainsjs/src/index.mjs";
+// import {
+//   Curtains,
+//   Plane,
+//   Vec2,
+//   Vec3,
+//   PingPongPlane,
+//   ShaderPass,
+//   FXAAPass,
+// } from "curtainsjs";
 import {
   vs1,
   fs1,

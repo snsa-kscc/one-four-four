@@ -37,7 +37,7 @@
 </template>
 
 <script>
-import { Curtains, Plane } from "curtainsjs/src/index.mjs";
+// import { Curtains, Plane } from "curtainsjs/src/index.mjs";
 import { vs, fs } from "~/assets/shader.js";
 // import gsap from "gsap";
 export default {
