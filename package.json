@@ -7,7 +7,6 @@
     "dev": "nuxt",
     "serve": "nuxt",
     "build": "nuxt build --no-lock",
-    "build:api": "netlify-lambda build src/sendgrid",
     "start": "nuxt start",
     "generate": "nuxt generate --no-lock",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
@@ -23,8 +22,8 @@
     "gsap": "^3.7.0",
     "intersection-observer": "^0.11.0",
     "lodash": "^4.17.20",
-    "netlify-lambda": "^2.0.0",
     "nuxt": "^2.15.4",
+    "vue": "^2",
     "vue-lazyload": "^1.3.0",
     "vue-moment": "^4.0.0",
     "vue-smooth-reflow": "^0.1.12"
