@@ -1,5 +1,5 @@
 <template>
-  <grid :posts="posts" />
+  <grid-liquid :posts="posts" />
 </template>
 
 <script>
@@ -11,10 +11,7 @@ export default {
         error({ statusCode: 404, message: "Page not found" });
       });
 
-    const posts = await $content("portfolio")
-      .sortBy("createdAt", "desc")
-      .where({ category: category.title })
-      .fetch();
+    const posts = await $content("portfolio").sortBy("createdAt", "desc").where({ category: category.title }).fetch();
 
     return {
       category,
