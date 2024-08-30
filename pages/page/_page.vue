@@ -1,5 +1,5 @@
 <template>
-  <grid :posts="posts[$route.params.page - 1]"></grid>
+  <grid-liquid :posts="posts[$route.params.page - 1]" />
 </template>
 
 <script>
