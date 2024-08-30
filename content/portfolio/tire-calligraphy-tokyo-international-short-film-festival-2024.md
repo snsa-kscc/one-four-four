@@ -1,7 +1,7 @@
 ---
 title: TIRE CALLIGRAPHY Tokyo International Short Film Festival 2024
 date: 2024-08-30T18:26:27.759Z
-thumbnail: /images/uploads/island-girl.webp
+thumbnail: /images/uploads/tirecalligraphy_feature.webp
 galleryImages:
   - /images/uploads/tc21-new-life-199144-island-boy-girl.jpg
   - /images/uploads/tc-product-side-view.webp
