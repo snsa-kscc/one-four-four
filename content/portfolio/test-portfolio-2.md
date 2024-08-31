@@ -20,8 +20,4 @@ We have been doing so ever since.
 
 **[Explore all of the soundscapes... ](https://open.spotify.com/user/45x6aikpn8hg9ziczww1q5gku?si=b1c846b98b824752&nd=1)**  
 
-
-
-The concpet for the 
-
 **[Explore all of the visuals...](https://www.youtube.com/@tirecalligraphy)**
