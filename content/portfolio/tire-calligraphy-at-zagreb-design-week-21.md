@@ -1,10 +1,13 @@
 ---
 title: "TIRE CALLIGRAPHY at ZAGREB DESIGN WEEK '21 "
 date: 2024-09-03T07:57:22.251Z
-thumbnail: /images/uploads/concrete.jpg
+thumbnail: /images/uploads/20210925_140904000_ios.jpg
 galleryImages:
-  - /images/uploads/football.jpg
-  - /images/uploads/galeb.jpg
+  - /images/uploads/20210925_054138000_ios.jpg
+  - /images/uploads/dsc02822.jpg
+  - /images/uploads/dsc02805.jpg
+  - /images/uploads/dsc02818.jpg
+  - /images/uploads/dsc02812.jpg
 category: Photo shoot
 ---
 **Project** 
