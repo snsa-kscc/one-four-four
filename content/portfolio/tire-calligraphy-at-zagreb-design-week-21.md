@@ -7,4 +7,14 @@ galleryImages:
   - /images/uploads/galeb.jpg
 category: Photo shoot
 ---
-ja sam lorem copy
+**Project** 
+A showcase / fashion show, if you will, even though we wish to drift away from the term fashion in connection with TC, so, a showcase of (then) latest offering of the brand at Zagreb Design Week, nominated in two categories, this being Design Award and Fashion show. 
+
+**Event concept / Project management / Styling**
+
+In order to differentiate Tire Calli from the rest of the brands/designers presented at the Fashion show part of the ZGDW programe, we created a special 3D video presentation of the offering/collection, played simultaneously as TC people walked down the runaway. 
+The fine #IYKYK fact - because this is how TC does it - the same audio was used as for the first short feature film, also being filmed to showcase the very same collection, but in an entirely different environment (literally and metaphorically speaking). The audio was created custom for the first film, as were both of the videos for this occasions.
+
+**Project management / Model scouting / Styling / Runaway coordination / Event planning / Execution**
+
+**STATUS: Delivered**
