@@ -9,7 +9,7 @@ galleryImages:
   - /images/uploads/dsc02818.jpg
   - /images/uploads/dsc02812.jpg
   - /images/uploads/20210925_161502000_ios.jpg
-category: Photo shoot
+category: Clothing line
 ---
 **Project** 
 A showcase / fashion show, if you will, even though we wish to drift away from the term fashion in connection with TC, so, a showcase of (then) latest offering of the brand at Zagreb Design Week, nominated in two categories, this being Design Award and Fashion show. 
