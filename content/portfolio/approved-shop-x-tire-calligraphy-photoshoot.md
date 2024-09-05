@@ -1,5 +1,5 @@
 ---
-title: APPROVED SHOP x TIRE CALLIGRAPHY PHOTOSHOOT TC21 New Life
+title: APPROVED SHOP x TIRE CALLIGRAPHY PHOTOSHOOT TC21 New Life 199144
 date: 2021-05-09T22:10:00.000Z
 thumbnail: /images/uploads/approved-x-tirecalligraphy-photo-shoot-tc21_feature.webp
 galleryImages:
