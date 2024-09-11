@@ -1,6 +1,6 @@
 ---
 title: APPROVED SHOP x TIRE CALLIGRAPHY PHOTOSHOOT TC22 Crypto Kids
-date: 2023-03-15T15:50:29.612Z
+date: 2024-01-24T15:50:29.612Z
 thumbnail: /images/uploads/tirecalligraphy-cryptokids-approved.png
 galleryImages:
   - /images/uploads/girl-in-black-quilted-jacket-close-up.webp
