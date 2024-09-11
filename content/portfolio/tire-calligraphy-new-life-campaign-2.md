@@ -1,6 +1,6 @@
 ---
 title: TIRE CALLIGRAPHY NEW LIFE Campaign 2 - Fahrenheit 451
-date: 2024-09-03T07:44:24.448Z
+date: 2024-08-11T07:44:24.448Z
 thumbnail: /images/uploads/new-life-cover.webp
 galleryImages:
   - /images/uploads/5m4a9213.jpg
