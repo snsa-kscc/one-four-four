@@ -38,6 +38,6 @@ Of course, this time again, **[a special Spotify playlist](https://open.spotify.
 
 **Model scouting / Model styling** 
 
-As all Tire Calligraphy collections are neutral-gender, this was the main direction for the styling of the models, them of course being of both gender. The idea was to switch the "roles", more precisely, the styles of the same clothing pieces - the girl wearing them oversized, for a baggy look, which in the 90s was predominatly a male "uniform"; and the guy wearing them as an alternative, true to size.
+As all Tire Calligraphy collections are neutral-gender, this was the main direction for the styling of the models, them of course being of both gender. The idea was to switch the "roles", more precisely, the styles of the same clothing pieces - the girl wearing them oversized, for a baggy look, which in the 90s was predominantly a male "uniform"; and the guy wearing them as an alternative, true to size.
 
 **STATUS: Delivered**
