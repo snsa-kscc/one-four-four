@@ -1,6 +1,6 @@
 ---
 title: TIRE CALLIGRAPHY Milan Fashion Film Festival 2023
-date: 2024-08-31T18:12:48.807Z
+date: 2024-09-10T18:12:48.807Z
 thumbnail: /images/uploads/tc21-3d-visual-enhancer2.jpg
 galleryImages:
   - /images/uploads/tc21-3d-visual-enhancer3.jpg
