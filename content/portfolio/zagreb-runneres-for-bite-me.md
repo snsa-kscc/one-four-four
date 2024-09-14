@@ -1,12 +1,13 @@
 ---
 title: ZAGREB RUNNERES for BITE ME
 date: 2024-08-20T15:30:34.894Z
-thumbnail: /images/uploads/20211031_114255768_ios.heic
+thumbnail: /images/uploads/20211031_114255768_ios.webp
 galleryImages:
-  - /images/uploads/20211031_115825323_ios.heic
-  - /images/uploads/20211031_120657443_ios.jpg
-  - /images/uploads/20211031_122425900_ios.heic
-  - /images/uploads/20211031_123140450_ios.heic
+  - /images/uploads/20211031_115825323_ios.webp
+  - /images/uploads/20211031_122425900_ios.webp
+  - /images/uploads/20211031_122715967_ios.webp
+  - /images/uploads/20211031_123144582_ios.webp
+  - /images/uploads/20211031_124454646_ios.webp
   - /images/uploads/biteme_logo_head.png
 category: Photo shoot
 ---
