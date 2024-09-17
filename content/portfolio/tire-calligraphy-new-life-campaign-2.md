@@ -20,7 +20,9 @@ F﻿ilm was an influence, a "unifomed" look, black, simple, sleek, cold, "heartl
 
 Of course, the movie is Fahrenheit 451.
 
-The backdrops of the locations used in the shoot reflected the simple "colors" - this being black, or one "off-color", this being gray. In addition to two "brutalist minimal" locations used, the third and the final one - almost symbolic,  as the holly trinity itslef, talking about Clerics - was the Croatian Bishops' Conference aka Conferentia Episcoporum Croatiae, as a reference for minimal, cold and simplistic solitude. 
+The backdrops of the locations used in the shoot reflected the simple "colors" - this being black, or one "off-color", this being gray. 
+
+In addition to two "brutalist minimal" locations used, the third and the final one - almost symbolic,  as the holly trinity itslef, talking about Clerics - was the Croatian Bishops' Conference aka Conferentia Episcoporum Croatiae, as a reference for minimal, cold and simplistic solitude. 
 
 
 
