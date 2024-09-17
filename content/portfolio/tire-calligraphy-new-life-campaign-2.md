@@ -14,7 +14,7 @@ galleryImages:
   - /images/uploads/20211005_191941000_ios.png
 category: Clothing line
 ---
-For Tire Calligraphy TC21 New Life / 199144 - second campaign,  we decided  to present all of the pieces in a more "wearable" environment, closer to everybody, this being an urban environment, a City . - as an direct oppos ite from the first campaign a solitude of an island in Winter time. 
+For Tire Calligraphy TC21 New Life / 199144 - second campaign, we decided to present all of the pieces in a more "wearable" environment, closer to everybody, this being an urban environment, The City - as a direct opposite from the first campaign, a solitude of an island in Winter time. 
 
 F﻿ilm was an influence, a "unifomed" look, black, simple, sleek, cold, "heartless", but also, comfortable, universal in "wearability" (neutral gender), and functional likewise - we channeled the infamous Tetragrammaton Clerics - a special elite force of soldiers, tought in the highest arts and knowledge of martial arts. 
 
