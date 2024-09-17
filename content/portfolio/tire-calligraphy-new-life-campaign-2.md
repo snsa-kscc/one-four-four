@@ -1,5 +1,5 @@
 ---
-title: TIRE CALLIGRAPHY NEW LIFE Campaign 2 - Equilibrium
+title: TIRE CALLIGRAPHY NEW LIFE Campaign 2
 date: 2024-08-30T07:44:24.448Z
 thumbnail: /images/uploads/new-life-cover.webp
 galleryImages:
