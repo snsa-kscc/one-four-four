@@ -18,7 +18,11 @@ For Tire Calligraphy TC21 New Life / 199144 - second campaign, we decided to pre
 
 F﻿ilm was an influence, a "unifomed" look, black, simple, sleek, cold, "heartless", but also, comfortable, universal in "wearability" (neutral gender), and functional likewise - we channeled the infamous Tetragrammaton Clerics - a special elite force of soldiers, tought in the highest arts and knowledge of martial arts. 
 
-The backdrops of the locations  used in the shoot 
+Of course, the movie is Fahrenheit 451.
+
+The backdrops of the locations used in the shoot reflected the simple "colors" - this being black, or one "off-color", this being gray. In addition to two "brutalist minimal" locations used, the third and the final one - almost symbolic,  as the holly trinity itslef, talking about Clerics - was the Croatian Bishops' Conference aka Conferentia Episcoporum Croatiae, as a reference for minimal, cold and simplistic solitude. 
+
+
 
 For additional inspiration and in depth understanding of our concept, check **[a special Spotify playlist](https://open.spotify.com/user/45x6aikpn8hg9ziczww1q5gku?si=b1c846b98b824752&nd=1)** we created for this occasion. 
 
