@@ -14,9 +14,9 @@ galleryImages:
   - /images/uploads/20211005_191941000_ios.png
 category: Clothing line
 ---
-For Tire Calligraphy TC21 second campaign
+For Tire Calligraphy TC21 New Life / 199144 - second campaign,  we decided  to present all of the pieces in a more "wearable" environment, closer to everybody, this being an urban environment, a City . - as an direct oppos ite from the first campaign a solitude of an island in Winter time. 
 
-
+F﻿ilm was an influence, a "unifomed" look, black, simple, sleek, cold, "heartless", but also, comfortable, universal in "wearability" (neutral gender), and functional likewise - we channeled the infamous Tetragrammaton Clerics - a special elite force of soldiers, tought in the highest arts and knowledge of martial arts. 
 
  offering, again we referenced the 90s US pop culture from the logical sources such as film and music. As an inspiration for the photo shoot, I singled out a movie which influenced me in more ways, still in my high school years, way back in the 90s. This is what I wanted to "throw - back" at the teens of todays 21st century. This time the influence was the now iconic movie Hackers. As at that period oif time it was talked about "crypto everything" + NFTs, I found it super appropriate to introduce the new crowd to a bit of pop culture from the "early years".   
 
