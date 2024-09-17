@@ -18,7 +18,7 @@ For Tire Calligraphy TC21 New Life / 199144 - second campaign, we decided to pre
 
 F﻿ilm was an influence, a "unifomed" look, black, simple, sleek, cold, "heartless", but also, comfortable, universal in "wearability" (neutral gender), and functional likewise - we channeled the infamous Tetragrammaton Clerics - a special elite force of soldiers, tought in the highest arts and knowledge of martial arts. 
 
- offering, again we referenced the 90s US pop culture from the logical sources such as film and music. As an inspiration for the photo shoot, I singled out a movie which influenced me in more ways, still in my high school years, way back in the 90s. This is what I wanted to "throw - back" at the teens of todays 21st century. This time the influence was the now iconic movie Hackers. As at that period oif time it was talked about "crypto everything" + NFTs, I found it super appropriate to introduce the new crowd to a bit of pop culture from the "early years".   
+The backdrops of the locations  used in the shoot 
 
 For additional inspiration and in depth understanding of our concept, check **[a special Spotify playlist](https://open.spotify.com/user/45x6aikpn8hg9ziczww1q5gku?si=b1c846b98b824752&nd=1)** we created for this occasion. 
 
