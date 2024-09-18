@@ -8,7 +8,6 @@ galleryImages:
   - /images/uploads/5m4a9038.jpg
   - /images/uploads/5m4a8870.jpg
   - /images/uploads/5m4a8861.jpg
-  - /images/uploads/20211005_191941000_ios.png
 category: Clothing line
 ---
 For Tire Calligraphy TC21 New Life / 199144 - second campaign, we decided to present all of the pieces in a more "wearable" environment, closer to everybody, this being an urban environment, The City - as a direct opposite from the first campaign, a solitude of an island in Winter time. 
