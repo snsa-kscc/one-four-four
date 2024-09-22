@@ -13,13 +13,11 @@ galleryImages:
 video: https://res.cloudinary.com/tire-calligraphy/video/upload/v1726487469/2024_CONVERSE_1920_x_1080_NL.mp4
 category: Events
 ---
-**Client: Triple Jump / Converse Croatia**
+**In-house '9-5' project: Triple Jump / Converse Croatia**
 
 **Project**
 
 A media focused event, a presentation of new fashion oriented Converse silhouettes. 
-
-  
 
 **Concept / Project management / Location scouting / Event planning / Influencer marketing / Execution** 
 
