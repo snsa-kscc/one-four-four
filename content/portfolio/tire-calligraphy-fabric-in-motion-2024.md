@@ -3,7 +3,7 @@ title: TIRE CALLIGRAPHY Fabric In Motion 2024
 date: 2025-05-06T11:18:38.325Z
 thumbnail: /images/uploads/tc-fabric-in-motion.png
 galleryImages: []
-video: ""
+video: /images/uploads/tc-fabricinmotion-final2.mp4
 category: Events
 ---
 **About The House (Tire Calligraphy)**
