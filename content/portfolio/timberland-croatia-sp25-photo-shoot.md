@@ -7,14 +7,13 @@ galleryImages:
   - /images/uploads/timberland-spring25-2.jpg
   - /images/uploads/timberland-spring25-boat-shoe.jpg
   - /images/uploads/timberland-spring25-boat-shoe-2.jpg
+  - /images/uploads/timberland-sp25-recap1.png
   - /images/uploads/timberland-spring25-outdoor.jpg
   - /images/uploads/timberland-spring25-outdoor-2.jpg
   - /images/uploads/timberland-spring25-outdoor-3.jpg
   - /images/uploads/timberland-spring25-boat-shoe-3.jpg
   - /images/uploads/timberland-spring25-outdoor-4.jpg
   - /images/uploads/timberland-spring25.jpg
-  - /images/uploads/timberland-sp25-recap1.png
-  - /images/uploads/timberland-sp25-recap2.png
 video: ""
 category: Photo shoot
 ---
