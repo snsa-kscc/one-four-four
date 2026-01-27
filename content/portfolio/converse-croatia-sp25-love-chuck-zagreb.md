@@ -19,6 +19,8 @@ category: Photo shoot
 
 A hyper local campaign; local content creation according to global guidelines. 
 
+S﻿pecific locations in the city of Zagreb, capital of Croatia, were chosen according to location, historical and cultural  (both historical and todays) relevance. 
+
 Chuck 70 global campaign.
 
 <!--EndFragment-->
