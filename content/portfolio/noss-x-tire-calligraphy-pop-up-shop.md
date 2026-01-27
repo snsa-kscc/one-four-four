@@ -7,7 +7,8 @@ galleryImages:
   - /images/uploads/tirecalligraphy_noss_02.jpg
   - /images/uploads/tirecalligraphy_noss_03.webp
   - /images/uploads/tirecalligraphy_noss_04.webp
-category: Events
+categories:
+  - Events
 ---
 **Client: Tire Calligraphy**
 

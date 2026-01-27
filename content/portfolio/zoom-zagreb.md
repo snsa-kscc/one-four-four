@@ -8,7 +8,8 @@ galleryImages:
   - /images/uploads/zoom_zagreb_ferivi_03.webp
   - /images/uploads/zoom_zagreb_ferivi_04.webp
   - /images/uploads/zoom_zagreb_ferivi_05.webp
-category: Events
+categories:
+  - Events
 ---
 **Client: Ferivi / Running Gate**
 

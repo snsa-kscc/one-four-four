@@ -4,7 +4,8 @@ date: 2024-08-28T18:10:25.480Z
 thumbnail: /images/uploads/island-girl.webp
 galleryImages: []
 video: https://res.cloudinary.com/tire-calligraphy/video/upload/v1615129052/TC21-New-Life-199144.mp4
-category: Clothing line
+categories:
+  - Clothing line
 ---
 A first short film ever created for Tire Calligraphy for it's then, latest offering, TC21 New Life / 199144. 
 

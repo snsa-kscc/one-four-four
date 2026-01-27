@@ -16,7 +16,8 @@ galleryImages:
   - /images/uploads/deftones_90s_reference.webp
   - /images/uploads/deftones_90s_reference_2.webp
 video: ""
-category: Photo shoot
+categories:
+  - Photo shoot
 ---
 **Client: approved! Shop**
 

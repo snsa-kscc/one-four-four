@@ -26,17 +26,17 @@
           />
         </div>
         <div class="description md:sticky md:top-32 pr-8">
-          <div class="xs-mt-5 bold">
-            <ul class="list-unstyled xs-flex xs-flex-align-center">
-              <li class="xs-inline-block xs-mr1" v-if="post.category">
+          <div class="xs-mt-5 bold" v-if="post.categories && post.categories.length">
+            <ul class="list-unstyled xs-flex xs-flex-align-center flex-wrap gap-2">
+              <li class="xs-inline-block xs-mr1" v-for="(cat, index) in post.categories" :key="index">
                 <div class="tag fill-gray-darker xs-border">
                   <nuxt-link
-                    :to="`/category/${post.category
+                    :to="`/category/${cat
                       .replace(/([a-z])([A-Z])/g, `$1-$2`)
                       .replace(/[\s_]+/g, `-`)
                       .toLowerCase()}`"
                     class="tag__link text-white"
-                    >{{ post.category }}</nuxt-link
+                    >{{ cat }}</nuxt-link
                   >
                 </div>
               </li>

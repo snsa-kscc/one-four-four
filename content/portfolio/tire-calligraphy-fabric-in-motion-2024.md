@@ -4,7 +4,8 @@ date: 2025-05-06T11:18:38.325Z
 thumbnail: /images/uploads/tc-fabric-in-motion.png
 galleryImages: []
 video: /images/uploads/tc-fabricinmotion-final2.mp4
-category: Events
+categories:
+  - Events
 ---
 **About The House (Tire Calligraphy)**
 Established in 2016., we are in the ninth year of Croatian streetwear/fashion brand Tire Calligraphy. The house offers limited editions of Pret-A-Porter aka Ready-to-wear premium, well thought of pieces – they like to call Future Evergreens, “Functional Fashion” and “Not only for show, but for go”.

@@ -9,7 +9,8 @@ galleryImages:
   - /images/uploads/20211031_123144582_ios.webp
   - /images/uploads/20211031_124454646_ios.webp
   - /images/uploads/biteme_logo_head.png
-category: Photo shoot
+categories:
+  - Photo shoot
 ---
 **Client: Bite Me Nutrition**
 

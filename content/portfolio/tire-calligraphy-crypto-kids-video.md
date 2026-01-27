@@ -11,7 +11,8 @@ galleryImages:
   - /images/uploads/hackers-movie-fashion-1.jpg.webp
   - /images/uploads/hackers-movie-fashion-15.jpg.webp
 video: https://res.cloudinary.com/tire-calligraphy/video/upload/v1644355345/tire-calli-22-crypto-kids.mp4
-category: Clothing line
+categories:
+  - Clothing line
 ---
 For Tire Calligraphy TC22 Crypto kids offering, again we referenced the 90s US pop culture from the logical sources such as film and music. As an inspiration for the photo shoot, I singled out a movie which influenced me in more ways, still in my high school years, way back in the 90s. This is what I wanted to "throw - back" at the teens of todays 21st century. This time the influence was the now iconic movie Hackers. As at that period oif time it was talked about "crypto everything" + NFTs, I found it super appropriate to introduce the new crowd to a bit of pop culture from the "early years". 
 

@@ -4,7 +4,8 @@ date: 2024-08-29T19:18:50.246Z
 thumbnail: /images/uploads/tc21-3d-visual-enhancer2.jpg
 galleryImages: []
 video: https://res.cloudinary.com/tire-calligraphy/video/upload/v1632939145/TC21-3D-Visual-Enhancer.mp4
-category: Clothing line
+categories:
+  - Clothing line
 ---
 A supporting piece of visual offering for Tire Calligraphy TC21 New Life / 199144. 
 

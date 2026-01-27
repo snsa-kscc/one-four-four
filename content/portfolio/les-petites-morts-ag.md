@@ -7,7 +7,8 @@ galleryImages:
   - /images/uploads/lespetitesmortsag_02.webp
   - /images/uploads/lespetitesmortsag_03.webp
   - /images/uploads/lespetitesmortsag_04.webp
-category: Modelling agency
+categories:
+  - Modelling agency
 ---
 **About** 
 

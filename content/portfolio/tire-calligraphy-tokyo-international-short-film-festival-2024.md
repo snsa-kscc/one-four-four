@@ -6,7 +6,8 @@ galleryImages:
   - /images/uploads/tc21-new-life-199144-island-boy-girl.jpg
   - /images/uploads/tc-product-side-view.webp
 video: /images/uploads/c62340d6-1624-4757-b138-bb2cf6468ead.mp4
-category: Clothing line
+categories:
+  - Clothing line
 ---
 Tokyo International Short Film Festival 2024.
 

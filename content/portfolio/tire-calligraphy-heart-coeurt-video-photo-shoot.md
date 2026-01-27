@@ -9,7 +9,8 @@ galleryImages:
   - /images/uploads/_mg_6270.jpg
   - /images/uploads/_mg_6283.jpg
 video: /images/uploads/926e4cb4-89bd-4909-b6f1-5d6e98cca812.mp4
-category: Clothing line
+categories:
+  - Clothing line
 ---
 For Tire Calligraphy TC23/4 Heart Coeurt offering, the idea was simple, to introduce the inspiration for the color choices of the latest Concept / Offering, for the cotton and print likewise. 
 

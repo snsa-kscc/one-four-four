@@ -11,7 +11,8 @@ galleryImages:
   - /images/uploads/edge-6.png
   - /images/uploads/edge-7.png
 video: https://res.cloudinary.com/tire-calligraphy/video/upload/v1726487469/2024_CONVERSE_1920_x_1080_NL.mp4
-category: Events
+categories:
+  - Events
 ---
 **In-house '9-5' project: Triple Jump / Converse Croatia**
 

@@ -5,7 +5,8 @@ thumbnail: /images/uploads/indiegogo_bike_polo_zagreb_feature.webp
 galleryImages:
   - /images/uploads/indiegogo_bike_polo_zagreb_01.webp
   - /images/uploads/indiegogo_bike_polo_zagreb_02.webp
-category: Pro bono
+categories:
+  - Pro bono
 ---
 **Client: Bike Polo Zagreb**
 

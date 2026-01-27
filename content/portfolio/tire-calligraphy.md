@@ -11,7 +11,8 @@ galleryImages:
   - /images/uploads/tirecalligraphy_webshop_06.webp
   - /images/uploads/tirecalligraphy_webshop_07.webp
   - /images/uploads/tirecalligraphy_webshop_08.webp
-category: Clothing line
+categories:
+  - Clothing line
 ---
 **About** 
 

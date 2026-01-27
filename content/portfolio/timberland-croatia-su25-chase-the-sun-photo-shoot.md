@@ -14,7 +14,8 @@ galleryImages:
   - /images/uploads/timberland-summer25-outdoor-5.jpg
   - /images/uploads/timberland-summer25-outdoor-6.jpg
 video: ""
-category: Photo shoot
+categories:
+  - Photo shoot
 ---
 **In-house '9-5' project: Triple Jump / Timberland Croatia**
 
