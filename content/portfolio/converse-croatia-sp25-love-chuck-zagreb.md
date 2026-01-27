@@ -8,7 +8,7 @@ galleryImages:
   - /images/uploads/chuck2.png
   - /images/uploads/chuck3.png
 video: ""
-category: ""
+category: Digital
 ---
 **In-house '9-5' project: Triple Jump / Converse Croatia**
 
