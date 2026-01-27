@@ -1,32 +1,45 @@
 ---
-title: "Converse Croatia - SP25 Love Chuck Zagreb "
-date: 2025-10-06T14:00:30.089Z
-thumbnail: /images/uploads/primer-2.jpg
+title: Converse Croatia SU25 Music Meets Art - Converse Croatia x Luzeri x
+  Glitchboy2000
+date: 2025-10-07T14:00:30.089Z
+thumbnail: /images/uploads/converse-croatia-luzeri.jpg
 galleryImages:
-  - /images/uploads/primer-1.jpg
-  - /images/uploads/primer-3.jpg
-  - /images/uploads/img_9407.jpg
-  - /images/uploads/img_9454.jpg
-  - /images/uploads/img_9469.jpg
-  - /images/uploads/chuck1.png
-  - /images/uploads/img-20250623-wa0013.jpg
+  - /images/uploads/converse-croatia-luzeri-2.jpg
+  - /images/uploads/chuck2.png
+  - /images/uploads/chuck3.png
 video: ""
-category: Photo shoot
+category: ""
 ---
 **In-house '9-5' project: Triple Jump / Converse Croatia**
 
 **Project**
 
-A hyper local campaign; local content creation according to global guidelines. 
+A local campaign; concept to execution.
 
-S﻿pecific locations in the city of Zagreb, capital of Croatia, were chosen according to location, historical and cultural  (both historical and todays) relevance. 
+A very special project with two Converse Croatia artists – first of its kind. [Luzeri](https://www.instagram.com/luzeri.wav/) x [Glitchboy2000](https://www.instagram.com/glitchboy2000/)
 
-Chuck 70 global campaign.
+A very special project between two genres – music meets art. Converse T-Shirts served as a „blank canvas” and a platform for expression - Coverse Chuck70 shoes served as a blank canvas for expression – customized by Glitchboy2000 for each artist in the Luzeri pop-punk band. Glitchboy created cover art for Luzeri new album + conceptual limited edition merch as a promo for the bands album launch.
+
+Listening party was organized to hype the album release and to serve as the end of the limited edition merch giveaway.  
+
+Special custom gift boxes were made by Glitchboy for the winners of the giveaway.
+
+<!--\[if ppt]-->
+
+•
+
+<!--\[endif]-->
+
+•Collabo posts published with photo shoot materials as an intro for the new album (as a form of audio art – Luzeri)
+
+•Giveaways were active on both sides: Glitchboy + Luzeri
 
 <!--EndFragment-->
 
-**Project management / Location scouting** 
+<!--EndFragment-->
 
-**Photo & Edit: [@dinosertovic](https://www.instagram.com/dinosertovic/)**
+**Concept / Project management** 
+
+**Photo & Edit:**
 
 **STATUS: Delivered**
