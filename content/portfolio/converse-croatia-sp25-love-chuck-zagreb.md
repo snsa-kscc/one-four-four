@@ -18,28 +18,24 @@ A local campaign; concept to execution.
 
 A very special project with two Converse Croatia artists – first of its kind. [Luzeri](https://www.instagram.com/luzeri.wav/) x [Glitchboy2000](https://www.instagram.com/glitchboy2000/)
 
-A very special project between two genres – music meets art. Converse T-Shirts served as a „blank canvas” and a platform for expression - Coverse Chuck70 shoes served as a blank canvas for expression – customized by Glitchboy2000 for each artist in the Luzeri pop-punk band. Glitchboy created cover art for Luzeri new album + conceptual limited edition merch as a promo for the bands album launch.
+A very special project between two genres – music meets art. 
 
-Listening party was organized to hype the album release and to serve as the end of the limited edition merch giveaway.  
+Converse T-Shirts served as a „blank canvas” and a platform for expression.
 
-Special custom gift boxes were made by Glitchboy for the winners of the giveaway.
+Coverse Chuck 70 shoes served as a blank canvas for expression – customized by Glitchboy2000 for each artist in the Luzeri pop-punk band. Glitchboy created cover art for Luzeri new album + conceptual limited edition merch as a promo for the bands album launch.
 
-<!--\[if ppt]-->
+Listening party was organized to hype the album release and to serve as the end of the limited edition merch giveaway.  Special custom gift boxes were made by Glitchboy for the winners of the giveaway.
 
-•
+G﻿oal:
 
-<!--\[endif]-->
+C﻿onnecting the brand with a new audience/community of followers, with the power a nd through the lense of two forms of expression, music and visual art. 
 
-•Collabo posts published with photo shoot materials as an intro for the new album (as a form of audio art – Luzeri)
+M﻿aintaining authenticity with loyal fanbase. 
 
-•Giveaways were active on both sides: Glitchboy + Luzeri
 
-<!--EndFragment-->
 
 <!--EndFragment-->
 
 **Concept / Project management** 
-
-**Photo & Edit:**
 
 **STATUS: Delivered**
