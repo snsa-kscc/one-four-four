@@ -1,6 +1,6 @@
 ---
 title: "Timberland Croatia - SP25 Photo Shoot "
-date: 2026-01-23T10:19:00.130Z
+date: 2025-05-05T09:19:00.130Z
 thumbnail: /images/uploads/timberland-sp25-recap2.png
 galleryImages:
   - /images/uploads/timberland-spring25-1.jpg
