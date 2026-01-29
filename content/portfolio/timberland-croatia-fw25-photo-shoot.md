@@ -9,6 +9,10 @@ galleryImages:
   - /images/uploads/timberland-fw25-2.webp
   - /images/uploads/timberland-fw25-3.webp
   - /images/uploads/timberland-fw25-4.webp
+  - /images/uploads/timberland-fw25-5.webp
+  - /images/uploads/timberland-fw25-6.webp
+  - /images/uploads/timberland-fw25-7.webp
+  - /images/uploads/timberland-fw25-8.webp
 video: ""
 categories:
   - Photo shoot
