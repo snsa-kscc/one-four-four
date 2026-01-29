@@ -25,9 +25,9 @@ categories:
 
 A local content creation according to global guidelines.
 
-Boat shoes and 6inch Yellow Boot in focus.
+Yellow Boot Season in focus.
 
-
+9﻿0s hip-hop fashion as inspo + contemporary style combos created for local market needs.
 
 <!--EndFragment-->
 
