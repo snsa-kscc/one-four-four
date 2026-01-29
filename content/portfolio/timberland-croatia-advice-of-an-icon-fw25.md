@@ -4,6 +4,7 @@ date: 2026-01-29T11:13:02.597Z
 thumbnail: /images/uploads/preemo-alchemist-world-tour.webp
 galleryImages:
   - /images/uploads/preemo-alchemist-world-tour-2.png
+  - /images/uploads/preemo-alchemist-world-tour-3.png
 video: ""
 categories:
   - Events
@@ -25,6 +26,17 @@ A mix of music + fashion: rap / hip-hop culture. Local photoshoot – focus on s
 To (re)introduce the brand to broad audience and old/new generations of loyal fans.
 
 To further position the brand as legacy and „future classic”. 
+
+
+
+Following the revival of “90s/00s” trend of on the streets, poster guerilla OOH. 
+
+Communicating the global ambassador of the campaign (Skepta) – on the streets – to communicate the brand/campaign to a younger/broader audience.
+
+
+Rationale: this type of “OOH” campaign fits as an addition to other channels of brand communication: in – store (VM), digital (social networks), PR, experiential (event).
+
+
 
 <!--EndFragment-->
 
