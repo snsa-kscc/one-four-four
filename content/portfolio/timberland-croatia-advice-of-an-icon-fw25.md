@@ -18,11 +18,13 @@ Yellow Boot Season in focus. Music meets Fashion.
 
 A﻿ hyper local brand execution for Timberland and Timberland Croatia according to brand guidelines. 
 
+Advice Of An Icon local Authenticator / brand ambassador  - a music promotor / manager, representative of Hip-Hop culture for 30+ years.
 
+A mix of music + fashion: rap / hip-hop culture. Local photoshoot – focus on social.
 
+To (re)introduce the brand to broad audience and old/new generations of loyal fans.
 
-
-
+To further position the brand as legacy and „future classic”. 
 
 <!--EndFragment-->
 
