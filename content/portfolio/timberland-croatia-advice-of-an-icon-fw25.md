@@ -18,30 +18,27 @@ categories:
 
 **Project**
 
-A local content creation according to global guidelines.
-
 Yellow Boot Season in focus. Music meets Fashion. 
 
 A﻿ hyper local brand execution for Timberland and Timberland Croatia according to brand guidelines. 
 
-Advice Of An Icon local Authenticator / brand ambassador  - a music promotor / manager, representative of Hip-Hop culture for 30+ years.
+Advice Of An Icon local Authenticator / brand ambassadorship  - partnering with a music promotor / manager, representative of Hip-Hop culture for 30+ years. 
 
 A mix of music + fashion: rap / hip-hop culture. Local photoshoot – focus on social.
+
+**Goal:** 
 
 To (re)introduce the brand to broad audience and old/new generations of loyal fans.
 
 To further position the brand as legacy and „future classic”. 
 
+**Process:**
 
-
-Following the revival of “90s/00s” trend of on the streets, poster guerilla OOH. 
+Following the revival of “90s/00s” trend of on the streets, poster guerilla OOH.  
 
 Communicating the global ambassador of the campaign (Skepta) – on the streets – to communicate the brand/campaign to a younger/broader audience.
 
-
 Rationale: this type of “OOH” campaign fits as an addition to other channels of brand communication: in – store (VM), digital (social networks), PR, experiential (event).
-
-
 
 <!--EndFragment-->
 
