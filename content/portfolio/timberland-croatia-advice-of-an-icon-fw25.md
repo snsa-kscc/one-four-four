@@ -9,6 +9,7 @@ galleryImages:
   - /images/uploads/preemo-alchemist-world-tour-7.png
   - /images/uploads/preemo-alchemist-world-tour-6.png
   - /images/uploads/preemo-alchemist-world-tour-8.png
+  - /images/uploads/preemo-alchemist-world-tour-9.png
 video: ""
 categories:
   - Events
