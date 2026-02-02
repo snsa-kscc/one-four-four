@@ -32,3 +32,5 @@ A pop – up event: a Showcase + Archive sale type of experience.
 **Fabric in motion
 A visual, audio and tactile experience.**
 A once in a lifetime opportunity to experience a butoh-inspired performance executed by a Croatian rooted movement artis from Cyprus, Iva Matosevic.
+
+**M﻿ore info available [here.](https://tirecalli.com/fabric-in-motion-campaign/)**
