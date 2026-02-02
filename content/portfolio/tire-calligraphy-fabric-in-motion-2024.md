@@ -16,8 +16,10 @@ Each TC piece is cut-n-sew, envisioned and produced in Zagreb, Croatia, with the
 
 **The Concept**
 
-**A visual, audio and tactile experience – type of event.
-Spring symbolizes a change of energies, out with the old – in with the new.**
+**A visual, audio and tactile experience – type of event.**
+
+
+**Spring symbolizes a change of energies, out with the old – in with the new.**
 
 
 A pop – up event: a Showcase + Archive sale type of experience.
