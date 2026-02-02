@@ -11,9 +11,8 @@ categories:
 Established in 2016., we are in the ninth year of Croatian streetwear/fashion brand Tire Calligraphy. The house offers limited editions of Pret-A-Porter aka Ready-to-wear premium, well thought of pieces – they like to call Future Evergreens, “Functional Fashion” and “Not only for show, but for go”.
 Each TC piece is cut-n-sew, envisioned and produced in Zagreb, Croatia, with their finest materials sourced from Portugal, Italy and Turkey – they believe in fair pay and support of local cut and sew business.
 
-**Tire Calligraphy x [Holographik Space](https://www.instagram.com/holographik.space/) – Fabric in Motion
+**[Tire Calligraphy](https://tirecalli.com/fabric-in-motion-campaign/) x [Holographik Space](https://www.instagram.com/holographik.space/) – Fabric in Motion
 The Concept**
-
 
 **A visual, audio and tactile experience – type of event.
 Spring symbolizes a change of energies, out with the old – in with the new.**
@@ -22,10 +21,8 @@ All pieces will be -40% off.
 Business will be conducted as follows: first come, first served principle - WYSIWYG.
 TC believes in not repeating itself, so these are the last remaining pieces of their current offerings.
 
-
 **Spring symbolizes a change of energies, out with the old – in with the new.**
 “The dance is rooted in a deep connection with the natural world. Nature is a symbol of a shifting existence, and the transformation and transience of nature and the cycle of the seasons are often incorporated into the “patterns” of butoh dance.”
-
 
 **Fabric in motion
 A visual, audio and tactile experience.**
@@ -54,13 +51,10 @@ A once in a lifetime opportunity to experience a butoh-inspired performance exec
 **TC pieces explained: A rationale for The Concept
 199144**
 
-
 **With a vision of neutral, universal items in mind, 199144 (premium) items will spread through the seasons not constrained by time, location or fashion trends. These are Future Evergreens. Every item offered is a neutral-gender item.**
-
 
 Black denim was chosen as key source, signifying the key source that is present in each city, this being concrete and asphalt, dark and sturdy, resisting the elements but also, in a way, accepting them and with that, allowing a visible change which happens over time, years, even decades. Even with all of its lights, the city is a dark place with all the concrete walls and glass of skyscrapers, the streets, the subway lanes.
 The raw black denim in all its roughness will start to adapt to each individual, becoming a unique item in fit and color, both being noticeable, but maybe just at the second or third glance.
-
 
 The TC22 199144 offering was presented as a uniform, a Basic Denim Overall Pant and a Basic Denim Jacket – as a layer of the Hybrid Jacket.
 Being neutral in color, fit and minimal in (visible) features, items, each in its own right, are envisioned and created as adaptable to each other and additional garments, thus serving each individual when creating their looks, a uniform of a sort. With a utilitarian approach to wardrobe the items are presented as spacey, oversized if you will, a comfortable wear, both being able to be worn in more than one way.
