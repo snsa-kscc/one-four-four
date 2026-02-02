@@ -17,9 +17,6 @@ The Concept**
 **A visual, audio and tactile experience – type of event.
 Spring symbolizes a change of energies, out with the old – in with the new.**
 A pop – up event: a Showcase + Archive sale type of experience.
-All pieces will be -40% off.
-Business will be conducted as follows: first come, first served principle - WYSIWYG.
-TC believes in not repeating itself, so these are the last remaining pieces of their current offerings.
 
 **Spring symbolizes a change of energies, out with the old – in with the new.**
 “The dance is rooted in a deep connection with the natural world. Nature is a symbol of a shifting existence, and the transformation and transience of nature and the cycle of the seasons are often incorporated into the “patterns” of butoh dance.”
