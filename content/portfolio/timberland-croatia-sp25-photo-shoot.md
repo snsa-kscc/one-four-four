@@ -28,7 +28,7 @@ Boat shoes and Outdoor in focus.
 
 <!--EndFragment-->
 
-**Concept / Project management / Location scouting / Model scouting** 
+**Concept / Project management / Budgeting / Location scouting / Model scouting / Styling** 
 
 **Photo & Edit: [@dinosertovic](https://www.instagram.com/dinosertovic/)**
 
