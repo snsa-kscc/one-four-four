@@ -31,7 +31,7 @@ Yellow Boot Season in focus.
 
 <!--EndFragment-->
 
-**Concept / Project management / Location scouting / Model scouting / Influencer marketing / Brand Ambassadorship** **/ Authenticators**
+**Concept / Project management / Budgeting / Location scouting / Model scouting / Styling / Influencer marketing / Brand Ambassadorship** **/ Authenticators**
 
 **Photo & Edit: [@dinosertovic](https://www.instagram.com/dinosertovic/)**
 
