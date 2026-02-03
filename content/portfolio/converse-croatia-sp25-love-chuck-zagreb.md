@@ -11,7 +11,6 @@ video: ""
 categories:
   - Digital
 ---
-
 **In-house '9-5' project: Triple Jump / Converse Croatia**
 
 **Project**
@@ -36,6 +35,6 @@ M﻿aintaining authenticity with loyal fanbase.
 
 <!--EndFragment-->
 
-**Concept / Project management**
+**Concept / Project management / Budgeting / Stakeholder - Artist coordination**
 
 **STATUS: Delivered**
