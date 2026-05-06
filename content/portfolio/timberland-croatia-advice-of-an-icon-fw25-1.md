@@ -1,8 +1,9 @@
 ---
 title: "Timberland Croatia - Advice Of An Icon FW25 "
 date: 2026-02-02T10:20:39.359Z
-thumbnail: /images/uploads/klisab-1.png
+thumbnail: /images/uploads/klisab-fashion-show-hero.jpg
 galleryImages:
+  - /images/uploads/klisab-1.png
   - /images/uploads/klisab-2.png
   - /images/uploads/klisab-3.png
 video: ""
