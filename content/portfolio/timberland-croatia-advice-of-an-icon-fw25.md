@@ -57,6 +57,6 @@ M﻿ore photos **[here](https://www.instagram.com/p/DSca1OvDMMY/?img_index=1)**
 
 <!--EndFragment-->
 
-**Concept / Project management / Budgeting / Experiential / Influencer marketing / Brand Ambassadorship  Authenticators / Event branding + cooridnation**
+**Concept / Project management / Budgeting / Experiential / Influencer marketing / Brand Ambassadorship  Authenticators / Event branding + coordination**
 
 **STATUS: Delivered**
