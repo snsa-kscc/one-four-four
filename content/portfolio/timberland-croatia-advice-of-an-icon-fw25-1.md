@@ -3,7 +3,7 @@ title: "Timberland Croatia - Advice Of An Icon FW25 "
 date: 2026-02-02T10:20:39.359Z
 thumbnail: /images/uploads/klisab-1.png
 galleryImages:
-  - /images/uploads/preemo-alchemist-world-tour-3.png
+  - /images/uploads/klisab-2.png
   - /images/uploads/preemo-alchemist-world-tour-4.png
   - /images/uploads/preemo-alchemist-world-tour-2.png
   - /images/uploads/preemo-alchemist-world-tour-7.png
