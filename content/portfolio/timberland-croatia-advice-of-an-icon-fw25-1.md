@@ -4,12 +4,7 @@ date: 2026-02-02T10:20:39.359Z
 thumbnail: /images/uploads/klisab-1.png
 galleryImages:
   - /images/uploads/klisab-2.png
-  - /images/uploads/preemo-alchemist-world-tour-4.png
-  - /images/uploads/preemo-alchemist-world-tour-2.png
-  - /images/uploads/preemo-alchemist-world-tour-7.png
-  - /images/uploads/preemo-alchemist-world-tour-6.png
-  - /images/uploads/preemo-alchemist-world-tour-8.png
-  - /images/uploads/preemo-alchemist-world-tour-9.png
+  - /images/uploads/klisab-3.png
 video: ""
 categories:
   - Events
